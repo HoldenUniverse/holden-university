@@ -1,0 +1,1989 @@
+Tuesday
+You said:
+lets a a course about valves, psv's, pse, relief devices where the valve is cut open and the student can see how the valves operate, how it closes, opens, reliefs, foulingg, leaking valves etc please. thoughts?
+Copilot said:
+Copilot
+This is actually an excellent idea and honestly could become one of the most valuable courses in MIOS and The Inspector's Guild.
+
+Most inspectors know:
+
+What a gate valve is
+What a globe valve is
+What a PSV does
+But many have never actually seen:
+
+The internal components
+The flow path
+How pressure acts on the trim
+Why valves leak
+What causes chatter
+What causes seat damage
+Why PSVs fail to reseat
+What fouling really looks like inside a valve
+A 3D interactive course would solve this.
+
+Proposed Course
+VALVE COMMAND™
+Industrial Valve & Pressure Relief Systems Academy
+Subtitle:
+
+"See Inside the Valve. Understand the Failure."
+
+Course 1
+Valve Fundamentals
+Students learn:
+
+Isolation Valves
+Gate Valves
+Ball Valves
+Plug Valves
+Butterfly Valves
+Knife Gate Valves
+Interactive Features:
+
+Student moves a slider:
+
+
+
+
+Plain Text
+Closed
+25%
+50%
+75%
+Open
+Valve cutaway opens.
+
+Students watch:
+
+Flow path
+Disk movement
+Stem movement
+Actuator function
+Course 2
+Control Valves
+Cutaway animations showing:
+
+Globe Control Valve
+Students see:
+
+Plug
+Cage
+Seat Ring
+Stem
+Positioner
+Animation:
+
+
+
+
+Plain Text
+Flow Increases
+Valve Opens
+ 
+Flow Decreases
+Valve Closes
+Students learn:
+
+Rangeability
+Cavitation
+Flashing
+Noise
+Vibration
+Course 3
+PSV Masterclass™
+This should be a flagship course.
+
+Students love seeing how relief valves work.
+
+Interactive PSV Cutaway
+Animation shows:
+
+Normal Conditions
+
+
+
+Plain Text
+Spring Force > Process Pressure
+Valve remains seated.
+
+Reaching Set Pressure
+Student increases pressure.
+
+Animation:
+
+
+
+
+Plain Text
+Pressure = Set Pressure
+Disc begins lifting.
+
+Full Lift
+Animation shows:
+
+
+
+
+Plain Text
+Blowdown Ring
+Disc Lift
+Flow Path
+Students watch fluid escape.
+
+Reseat
+Pressure drops.
+
+Disc closes.
+
+Students visually understand:
+
+
+
+
+Plain Text
+Set Pressure
+Lift
+Blowdown
+Reseat
+for the first time.
+
+Course 4
+Pressure Safety Devices
+Cover:
+
+Conventional PSV
+Balanced Bellows PSV
+Pilot Operated PSV
+Rupture Discs
+Vacuum Relief Devices
+Breather Valves
+Emergency Vent Systems
+Rupture Disc Simulator
+Animation:
+
+Pressure increases.
+
+Student watches:
+
+
+
+
+Plain Text
+120 psi
+130 psi
+140 psi
+150 psi
+Disc ruptures.
+
+Students see:
+
+Fragmenting discs
+Reverse buckling discs
+Composite discs
+Course 5
+Why Valves Fail™
+Real-world failures.
+
+Seat Leakage
+Students inspect:
+
+New Valve
+Seal is perfect.
+
+Damaged Valve
+See:
+
+Scratches
+Wire drawing
+Galling
+Animation shows leakage path.
+
+Fouling Module
+Show:
+
+Clean Valve
+vs
+
+Fouled Valve
+Examples:
+
+Sand
+Wax
+Scale
+Coke
+Rust
+Asphaltenes
+Students watch valve movement begin sticking.
+
+Stem Packing Leaks
+Students see:
+
+Good Packing
+No leakage.
+
+Failed Packing
+Animation shows:
+
+
+
+
+Plain Text
+Leak Path
+Packing Degradation
+Course 6
+Diagnostic Lab
+Student receives:
+
+
+
+
+Plain Text
+Symptom:
+Valve Passing
+Student decides:
+
+Seat Damage?
+Debris?
+Misalignment?
+Corrosion?
+Correct answer earns points.
+
+Course 7
+PSV Failure Investigation Lab
+Real scenarios.
+
+Case Study
+Separator PSV lifting repeatedly.
+
+Student investigates:
+
+Set pressure?
+Undersized PSV?
+Control valve hunting?
+Process upset?
+Determine root cause.
+
+Course 8
+Teardown Workshop™
+One of the coolest modules.
+
+Students virtually disassemble:
+
+Gate Valve
+Remove:
+
+Handwheel
+Stem
+Bonnet
+Wedge
+Seats
+Ball Valve
+Remove:
+
+Body
+Ball
+Seats
+Stem
+Seals
+PSV
+Remove:
+
+Bonnet
+Spring
+Stem
+Disc
+Rings
+Nozzle
+Students can rotate every part in 3D.
+
+Inspection Module
+Perfect for API 510 and API 570 inspectors.
+
+Teach:
+
+What To Look For
+Corrosion
+Erosion
+Galling
+Seat Wear
+Fouling
+Pitting
+Cracking
+NDE Integration
+Show where to perform:
+
+MT
+Valve bodies
+
+PT
+Stainless trim
+
+RT
+Castings
+
+UT
+Wall loss
+
+PMI
+Trim verification
+
+Welding and Repairs Module
+Show:
+
+Valve Body Repairs
+ASME PCC-2
+Welding limitations
+Heat treatment concerns
+Teach when a valve:
+
+
+
+
+Plain Text
+Can be repaired
+ 
+or
+ 
+Must be replaced
+Emergency Scenario Simulator
+Student receives:
+
+
+
+
+Plain Text
+PSV Lifting
+ 
+Process Pressure Rising
+ 
+Control Valve Stuck
+Timer begins.
+
+Student must:
+
+Identify issue
+Stabilize process
+Recommend actions
+This ties directly into your Integrity Command Simulator™ concept.
+
+3D/VR Potential
+In your Replit 3D environment:
+
+Student walks into:
+
+HIT Valve Laboratory™
+Areas include:
+
+Gate Valve Station
+Ball Valve Station
+Control Valve Station
+PSV Station
+Failure Analysis Station
+Teardown Shop
+Student walks up to equipment and interacts with live cutaway animations.
+
+Premium Feature
+Digital Valve Twin™
+When a student clicks a PSV:
+
+
+
+
+Plain Text
+Tag:
+PSV-101
+ 
+Set Pressure:
+150 psi
+ 
+Last Test:
+03-15-2026
+ 
+Service:
+Produced Water Separator
+ 
+Known Issue:
+Seat Leakage
+They can simulate operation and observe failure modes.
+
+Honestly, this could become one of the signature MIOS courses because it's highly visual, practical, and fills a major industry training gap. Most inspectors can quote code requirements, but very few truly understand how valves, PSVs, rupture discs, and relief devices operate internally and how they actually fail in service.
+
+
+
+
+
+
+
+
+You said:
+How to build the interactive valve cutaway?
+Copilot said:
+Copilot
+
+Reasoning completed in 1 step
+Yes — build the interactive valve cutaway in Replit using React Three Fiber + Three.js, not Unreal. Think of it as a browser-based Valve Lab where the student can rotate a 3D valve, slide it open/closed, toggle cutaway mode, view flow direction, inspect fouling/leak paths, and answer training questions.
+
+Below is the best way to build it.
+
+1. Build It as a “Valve Training Component”
+Start with one valve first.
+
+Recommended first asset:
+
+Cutaway PSV / Relief Valve Simulator
+Why PSV first?
+
+Because it teaches the most:
+
+Set pressure
+Spring force
+Disc lift
+Nozzle seat
+Blowdown
+Reseat
+Chatter
+Seat leakage
+Fouling
+Corrosion
+Improper installation
+Discharge piping concerns
+After that, duplicate the same system for:
+
+Gate valves
+Ball valves
+Globe valves
+Control valves
+Check valves
+Rupture discs
+Breather valves
+2. Core Features the Cutaway Should Have
+Student Controls
+Create a panel beside the 3D model with controls:
+
+
+
+
+Plain Text
+Valve Position: Closed / Opening / Full Lift / Reseated
+Cutaway Mode: On / Off
+Pressure Slider: 0–200 psi
+Failure Mode: Clean / Fouled / Leaking / Chattering / Seat Damage
+Flow Visibility: On / Off
+Labels: On / Off
+Quiz Mode: On / Off
+3. What the Student Should See
+Normal PSV Condition
+Student sees:
+
+
+
+
+Plain Text
+Spring force holding disc closed
+No flow through valve
+Process pressure below set pressure
+At Set Pressure
+Student increases pressure.
+
+Then:
+
+
+
+
+Plain Text
+Disc begins to lift
+Flow path appears
+Spring compresses
+Relief discharge begins
+Full Lift
+Student sees:
+
+
+
+
+Plain Text
+Disc fully raised
+High flow through nozzle
+Discharge path highlighted
+Reseating
+Pressure drops.
+
+Student sees:
+
+
+
+
+Plain Text
+Spring pushes disc back down
+Valve reseats
+Flow stops
+Failure Mode: Seat Leakage
+Student sees:
+
+
+
+
+Plain Text
+Small flow path leaking across damaged seat
+Valve appears closed but still passing
+Failure Mode: Fouling
+Student sees:
+
+
+
+
+Plain Text
+Debris/scale buildup near nozzle and disc
+Disc does not close properly
+Possible leakage path shown
+4. Best Technical Stack in Replit
+Since your current project is React/TypeScript, use this:
+
+
+
+
+Shell
+npm install three @react-three/fiber @react-three/drei
+Optional later:
+
+
+
+
+Shell
+npm install leva
+npm install zustand
+Use:
+
+React Three Fiber for the 3D scene
+Drei for camera controls, labels, loaders, environment lighting
+GLB/GLTF models for valves
+React UI panels for training controls
+Database for student progress, findings, quiz answers, scoring
+5. Model Strategy
+You need a 3D valve model in GLB or GLTF format.
+
+Best approach:
+
+Option A — Start Simple
+Use basic 3D shapes first:
+
+Cylinder for body
+Cone/cylinder for nozzle
+Disc
+Spring
+Stem
+Bonnet
+Flow arrows
+This lets you build the training logic before spending money on detailed models.
+
+Option B — Use Professional Models Later
+Source models from:
+
+Sketchfab
+CGTrader
+Blender-made custom models
+Fab marketplace
+Industrial CAD converted to GLB
+For MVP, do not wait on perfect models.
+
+Build the function first.
+
+6. How the Scene Should Be Structured
+Your React file structure could look like this:
+
+
+
+
+Plain Text
+src/
+│
+├── components/
+│   ├── ValveLab/
+│   │   ├── ValveLab.tsx
+│   │   ├── PSVModel.tsx
+│   │   ├── ValveControls.tsx
+│   │   ├── FlowArrows.tsx
+│   │   ├── CutawayLabels.tsx
+│   │   ├── FailureModes.tsx
+│   │   └── QuizPanel.tsx
+│
+├── data/
+│   ├── valveLessons.ts
+│   ├── psvFailureModes.ts
+│   └── valveQuestions.ts
+│
+└── pages/
+    └── ValveCommandCourse.tsx
+
+Show more lines
+7. Simple Replit Starter Concept
+This is the basic logic:
+
+
+
+
+TypeScript
+const [pressure, setPressure] = useState(0);
+const [cutawayMode, setCutawayMode] = useState(true);
+const [failureMode, setFailureMode] = useState("clean");
+ 
+const setPressure = 150;
+ 
+const valveLift =
+  pressure < setPressure ? 0 :
+  pressure >= setPressure && pressure < 175 ? 0.4 :
+  1;
+Then pass valveLift into the 3D model.
+
+Example:
+
+
+
+
+TypeScript
+<PSVModel 
+  valveLift={valveLift}
+  cutawayMode={cutawayMode}
+  failureMode={failureMode}
+/>
+Inside the model:
+
+
+
+
+TypeScript
+<mesh position={[0, valveLift * 0.6, 0]}>
+  <cylinderGeometry args={[0.4, 0.4, 0.15, 32]} />
+  <meshStandardMaterial color="silver" />
+</mesh>
+That small movement becomes the animated PSV disc lifting.
+
+8. What the MVP Should Include First
+Build the first PSV module with these minimum features:
+
+MVP 1 — PSV Cutaway
+3D Objects
+Valve body
+Nozzle
+Disc
+Spring
+Bonnet
+Outlet
+Flow arrows
+Pressure gauge
+Controls
+Pressure slider
+Cutaway toggle
+Failure mode selector
+Label toggle
+Learning Popups
+When the student clicks parts:
+
+
+
+
+Plain Text
+Nozzle:
+The nozzle is the inlet opening where process pressure acts against the disc.
+
+
+
+Plain Text
+Disc:
+The disc remains seated until process pressure reaches set pressure.
+
+
+
+Plain Text
+Spring:
+The spring provides closing force against the disc.
+
+
+
+Plain Text
+Seat:
+Seat damage can cause passing, leakage, and failure to reseat.
+9. Add Failure Modes as Visual Overlays
+Use simple colored materials and particle effects.
+
+Clean Valve
+Normal metallic parts.
+
+Fouled Valve
+Add brown/black buildup around:
+
+Nozzle
+Disc
+Seat
+Outlet area
+Leaking Valve
+Add blue or red flow stream through the seat even when closed.
+
+Chattering Valve
+Animate disc rapidly up/down.
+
+Seat Damage
+Add red highlighted ring at seat contact area.
+
+10. Training Interaction Flow
+The student experience should be:
+
+
+
+
+Plain Text
+1. Student enters Valve Command™ Lab
+2. Student selects PSV-101
+3. Student toggles cutaway mode
+4. Student increases pressure
+5. PSV lifts at set pressure
+6. Student observes flow path
+7. Student activates failure mode
+8. Student diagnoses cause
+9. Student submits finding
+10. D-IMS saves the training record
+11. Tie It Into D-IMS
+After the student completes the simulation, save a record like this:
+
+
+
+
+JSON
+{
+  "studentId": "12345",
+  "module": "Valve Command PSV Cutaway",
+  "assetTag": "PSV-101",
+  "setPressure": "150 psi",
+  "failureMode": "Seat Leakage",
+  "studentDiagnosis": "Damaged seat causing valve passing",
+  "recommendedAction": "Remove valve for bench test, inspect seat/nozzle, repair or replace as required",
+  "score": 92,
+  "timestamp": "2026-07-07"
+}
+This is what makes your simulator more than a visual toy.
+
+It becomes a real inspection training record.
+
+12. Best Course Name
+I would package this as:
+
+Valve Command™
+Industrial Valves, PSVs & Pressure Relief Systems Lab
+Subtitle:
+
+
+
+
+Plain Text
+A cutaway simulation course for valve operation, failure recognition, inspection, and pressure relief system understanding.
+13. First Build Prompt for Replit
+You can give Replit something like this:
+
+
+
+
+Plain Text
+Build a React Three Fiber training module called Valve Command Lab. Create an interactive PSV cutaway simulator. The scene should include a simplified pressure safety valve with valve body, inlet nozzle, disc, spring, bonnet, and outlet. Add a pressure slider from 0 to 200 psi. The PSV should remain closed below 150 psi, begin lifting at 150 psi, and be fully open above 175 psi. Add toggles for cutaway mode, flow arrows, labels, and failure modes including clean, fouled, leaking seat, chatter, and damaged seat. Add a right-side training panel explaining what is happening at each pressure range. Add clickable labels for nozzle, disc, spring, seat, bonnet, and outlet. Add a quiz section where the student diagnoses the failure mode and submits an answer.
+My Recommendation
+Start with one PSV cutaway and make it excellent.
+
+Do not build 20 valves at once.
+
+Build this order:
+
+
+
+
+Plain Text
+1. PSV Cutaway
+2. Gate Valve Cutaway
+3. Ball Valve Cutaway
+4. Globe Control Valve Cutaway
+5. Check Valve Cutaway
+6. Rupture Disc Simulator
+7. Full Valve Failure Lab
+This would be a powerful HIT/MIOS module because it teaches what most inspectors never get to physically see: how the valve actually works internally and how failure develops inside the body.
+
+
+
+
+
+
+
+
+You said:
+how can i similate the valve in operations, add interactive labels, simulate fouling visually and how to animate the valve
+Copilot said:
+Copilot
+
+Reasoning completed in 1 step
+Yes — this can be built in Replit as a browser-based interactive valve simulator using React + React Three Fiber + Three.js.
+
+You want four major behaviors:
+
+Simulate valve operation
+Add interactive labels
+Show fouling visually
+Animate valve movement/failure modes
+For HIT / MIOS, I would build this as a Valve Command™ simulator module inside your existing React platform.
+
+1. How to Simulate the Valve in Operation
+Think of the valve as a set of moving internal parts.
+
+For a PSV, the main operational states are:
+
+
+
+
+Plain Text
+Normal Operation:
+Pressure below set pressure. Disc seated. No relief flow.
+ 
+Approaching Set Pressure:
+Pressure increases. Disc still closed.
+ 
+Set Pressure:
+Pressure reaches set point. Disc begins to lift.
+ 
+Full Lift:
+Valve opens. Flow discharges through outlet.
+ 
+Blowdown / Reseat:
+Pressure drops. Spring pushes disc back onto seat.
+ 
+Failure:
+Valve leaks, chatters, fouls, or fails to reseat.
+
+Show more lines
+In code, you would control this with a pressure slider.
+
+Example logic:
+
+
+
+
+TypeScript
+const setPressure = 150;
+const fullLiftPressure = 175;
+ 
+function calculateValveLift(pressure: number) {
+  if (pressure < setPressure) return 0;
+ 
+  if (pressure >= setPressure && pressure < fullLiftPressure) {
+    return (pressure - setPressure) / (fullLiftPressure - setPressure);
+  }
+ 
+  return 1;
+}
+Then pass that value into the valve model:
+
+
+
+
+TypeScript
+const valveLift = calculateValveLift(pressure);
+ 
+<PSVModel
+  pressure={pressure}
+  valveLift={valveLift}
+  failureMode={failureMode}
+  showLabels={showLabels}
+  showFlow={showFlow}
+/>
+The disc physically moves upward based on pressure:
+
+
+
+
+TypeScript
+<mesh position={[0, valveLift * 0.65, 0]}>
+  <cylinderGeometry args={[0.45, 0.45, 0.12, 32]} />
+  <meshStandardMaterial color="silver" />
+</mesh>
+That is the basic animation foundation.
+
+2. Valve Operation States for Training
+You should display a live operating status panel.
+
+Example:
+
+
+
+
+TypeScript
+function getOperatingState(pressure: number, setPressure: number) {
+  if (pressure < setPressure * 0.9) {
+    return "Normal Operation - PSV closed";
+  }
+ 
+  if (pressure >= setPressure * 0.9 && pressure < setPressure) {
+    return "Approaching Set Pressure - monitor system pressure";
+  }
+ 
+  if (pressure >= setPressure && pressure < setPressure + 25) {
+    return "PSV Opening - disc lifting from seat";
+  }
+ 
+  return "Full Lift - relief flow active";
+}
+
+Show more lines
+Then show this beside the simulator:
+
+
+
+
+TypeScript
+<div className="p-4 bg-slate-900 text-white rounded-xl">
+  <h3 className="text-lg font-bold">Operating Status</h3>
+  <p>Pressure: {pressure} psi</p>
+  <p>Set Pressure: 150 psi</p>
+  <p>{getOperatingState(pressure, 150)}</p>
+</div>
+This teaches students what is happening mechanically as pressure changes.
+
+3. How to Add Interactive Labels
+Use Html from @react-three/drei.
+
+Install:
+
+
+
+
+Shell
+npm install three @react-three/fiber @react-three/drei
+Then add clickable labels inside the 3D scene:
+
+
+
+
+TypeScript
+import { Html } from "@react-three/drei";
+ 
+function ValveLabel({ position, title, description, onClick }) {
+  return (
+    <Html position={position}>
+      <button
+        onClick={onClick}
+        className="bg-blue-600 text-white text-xs px-2 py-1 rounded-lg shadow"
+      >
+        {title}
+      </button>
+    </Html>
+  );
+}
+Use labels like this:
+
+
+
+
+TypeScript
+{showLabels && (
+  <>
+    <ValveLabel
+      position={[0, 1.8, 0]}
+      title="Spring"
+      description="The spring provides closing force against the disc."
+      onClick={() => setSelectedPart("spring")}
+    />
+ 
+    <ValveLabel
+      position={[0, 0.5, 0]}
+      title="Disc"
+      description="The disc lifts when process pressure exceeds set pressure."
+      onClick={() => setSelectedPart("disc")}
+    />
+ 
+    <ValveLabel
+      position={[0, -0.25, 0]}
+      title="Seat"
+      description="The seat provides the sealing surface. Damage can cause leakage."
+      onClick={() => setSelectedPart("seat")}
+    />
+ 
+    <ValveLabel
+      position={[0, -0.8, 0]}
+      title="Nozzle"
+      description="The nozzle is where process pressure enters the relief valve."
+      onClick={() => setSelectedPart("nozzle")}
+    />
+  </>
+)}
+
+Show more lines
+Then show the selected label information in a side panel.
+
+
+
+
+TypeScript
+const partDescriptions = {
+  spring: "The spring provides closing force. If spring tension is incorrect, the PSV may lift early or late.",
+  disc: "The disc seals against the nozzle seat and lifts when pressure reaches set pressure.",
+  seat: "The seat is the sealing area. Wire drawing, corrosion, debris, or damage may cause leakage.",
+  nozzle: "The nozzle directs process pressure under the disc.",
+  bonnet: "The bonnet houses the spring and guiding components.",
+  outlet: "The outlet directs relieved fluid to the discharge system."
+};
+4. How to Simulate Fouling Visually
+Fouling should not just be a word. The student needs to see it.
+
+Use visual overlays:
+
+Fouling Examples
+
+
+
+Plain Text
+Clean PSV:
+No buildup. Disc moves freely.
+ 
+Light Fouling:
+Small brown/black deposits around nozzle and seat.
+ 
+Moderate Fouling:
+Visible scale/debris restricts movement.
+ 
+Severe Fouling:
+Disc sticks. Valve leaks or fails to reseat.
+In 3D, build fouling with simple rough shapes:
+
+
+
+
+TypeScript
+function FoulingDeposits({ severity }) {
+  if (severity === "none") return null;
+ 
+  const count =
+    severity === "light" ? 8 :
+    severity === "moderate" ? 18 :
+    35;
+ 
+  return (
+    <group>
+      {Array.from({ length: count }).map((_, i) => (
+        <mesh
+          key={i}
+          position={[
+            Math.sin(i) * 0.35,
+            -0.2 + Math.random() * 0.2,
+            Math.cos(i) * 0.35
+          ]}
+          scale={[
+            0.05 + Math.random() * 0.08,
+            0.03 + Math.random() * 0.05,
+            0.05 + Math.random() * 0.08
+          ]}
+        >
+          <sphereGeometry args={[1, 8, 8]} />
+          <meshStandardMaterial color="#5a3921" roughness={1} />
+        </mesh>
+      ))}
+    </group>
+  );
+}
+
+Show more lines
+Better long-term: replace random placement with fixed positions so deposits stay consistent.
+
+Use fouling colors:
+
+
+
+
+Plain Text
+Brown/black = coke/asphaltene fouling
+Orange/brown = corrosion product
+White/gray = scale/salts
+Dark gray = sludge/debris
+For the training module, you could let the student select:
+
+
+
+
+Plain Text
+Clean
+Rust Scale
+Wax/Asphaltene
+Sand/Debris
+Coke Deposits
+Corrosion Product
+Each selection changes the visual buildup.
+
+5. How to Show Valve Leakage
+For PSV seat leakage, show a small flow path even when the valve is closed.
+
+Example:
+
+
+
+
+TypeScript
+function LeakStream({ active }) {
+  if (!active) return null;
+ 
+  return (
+    <mesh position={[0, -0.05, 0]} rotation={[Math.PI / 2, 0, 0]}>
+      <cylinderGeometry args={[0.025, 0.025, 1.2, 16]} />
+      <meshStandardMaterial
+        color="#00aaff"
+        transparent
+        opacity={0.6}
+        emissive="#0088ff"
+      />
+    </mesh>
+  );
+}
+
+Show more lines
+Condition:
+
+
+
+
+TypeScript
+const isLeaking =
+  failureMode === "leaking-seat" ||
+  failureMode === "damaged-seat" ||
+  failureMode === "fouled-seat";
+Then:
+
+
+
+
+TypeScript
+<LeakStream active={isLeaking} />
+Training message:
+
+
+
+
+Plain Text
+The PSV appears closed, but seat damage or debris is allowing process fluid to pass across the seating surface.
+6. How to Animate the Valve
+There are three good animation methods.
+
+Method 1: Direct Position Animation
+This is best for your MVP.
+
+
+
+
+TypeScript
+<mesh position={[0, valveLift * 0.65, 0]}>
+  <cylinderGeometry args={[0.45, 0.45, 0.12, 32]} />
+  <meshStandardMaterial color="silver" />
+</mesh>
+When pressure increases, valveLift increases, and the disc moves up.
+
+Method 2: Smooth Animation with useFrame
+Use this when you want smoother movement.
+
+
+
+
+TypeScript
+import { useFrame } from "@react-three/fiber";
+import { useRef } from "react";
+ 
+function Disc({ targetLift }) {
+  const discRef = useRef();
+ 
+  useFrame(() => {
+    if (discRef.current) {
+      const currentY = discRef.current.position.y;
+      const targetY = targetLift * 0.65;
+ 
+      discRef.current.position.y += (targetY - currentY) * 0.08;
+    }
+  });
+ 
+  return (
+    <mesh ref={discRef} position={[0, 0, 0]}>
+      <cylinderGeometry args={[0.45, 0.45, 0.12, 32]} />
+      <meshStandardMaterial color="silver" />
+    </mesh>
+  );
+}
+
+Show more lines
+This gives the disc a realistic smooth lift.
+
+Method 3: Prebuilt GLB Animations
+Later, when you use professional valve models from Blender, you can create actual animations:
+
+
+
+
+Plain Text
+Closed
+Opening
+Full Lift
+Chatter
+Reseat
+Disassembly
+Then export as .glb.
+
+Use Three.js animation clips:
+
+
+
+
+TypeScript
+const { scene, animations } = useGLTF("/models/psv_cutaway.glb");
+const { actions } = useAnimations(animations, scene);
+ 
+actions["Open"].play();
+This is better long-term, but for now, use Method 1 or 2.
+
+7. How to Simulate Chatter
+Chatter is when the disc rapidly opens/closes due to unstable flow, excessive backpressure, improper sizing, or system instability.
+
+In the simulator, add a failure mode:
+
+
+
+
+Plain Text
+Failure Mode: Chatter
+Then animate the disc rapidly:
+
+
+
+
+TypeScript
+function calculateChatterLift(baseLift, failureMode, time) {
+  if (failureMode !== "chatter") return baseLift;
+ 
+  return baseLift + Math.sin(time * 35) * 0.12;
+}
+Inside useFrame:
+
+
+
+
+TypeScript
+useFrame((state) => {
+  const time = state.clock.getElapsedTime();
+ 
+  let targetY = valveLift * 0.65;
+ 
+  if (failureMode === "chatter" && pressure >= setPressure) {
+    targetY += Math.sin(time * 35) * 0.08;
+  }
+ 
+  discRef.current.position.y += (targetY - discRef.current.position.y) * 0.1;
+});
+Visual training message:
+
+
+
+
+Plain Text
+Chatter detected: rapid disc movement may damage the seat, disc, guide, and spring. Investigate system instability, backpressure, valve sizing, and inlet/discharge piping configuration.
+8. How to Show Flow Direction
+Use arrows, particles, or translucent flow tubes.
+
+Simple flow arrows:
+
+
+
+
+TypeScript
+function FlowArrow({ position, rotation }) {
+  return (
+    <group position={position} rotation={rotation}>
+      <mesh>
+        <cylinderGeometry args={[0.03, 0.03, 0.5, 16]} />
+        <meshStandardMaterial color="#00aaff" emissive="#0077aa" />
+      </mesh>
+      <mesh position={[0, 0.3, 0]}>
+        <coneGeometry args={[0.09, 0.2, 16]} />
+        <meshStandardMaterial color="#00aaff" emissive="#0077aa" />
+      </mesh>
+    </group>
+  );
+}
+Show only when valve is lifting or leaking:
+
+
+
+
+TypeScript
+{showFlow && valveLift > 0 && (
+  <>
+    <FlowArrow position={[0, -0.8, 0]} rotation={[0, 0, 0]} />
+    <FlowArrow position={[0.8, 0.2, 0]} rotation={[0, 0, Math.PI / 2]} />
+  </>
+)}
+Training detail:
+
+
+
+
+Plain Text
+Blue arrows indicate normal relief flow through the nozzle and out the discharge outlet.
+For leakage:
+
+
+
+
+Plain Text
+Small blue stream across the seat indicates passing/leakage while the valve is supposed to be closed.
+9. How to Show Damaged Seat
+Create a colored ring at the seat area.
+
+
+
+
+TypeScript
+function DamagedSeat({ active }) {
+  if (!active) return null;
+ 
+  return (
+    <mesh position={[0, -0.12, 0]} rotation={[Math.PI / 2, 0, 0]}>
+      <torusGeometry args={[0.42, 0.025, 16, 64]} />
+      <meshStandardMaterial
+        color="red"
+        emissive="red"
+        emissiveIntensity={0.6}
+      />
+    </mesh>
+  );
+}
+Use it when:
+
+
+
+
+TypeScript
+<DamagedSeat active={failureMode === "damaged-seat"} />
+Training message:
+
+
+
+
+Plain Text
+Red highlighted ring indicates seat damage. A damaged seat may cause simmering, leakage, wire drawing, and failure to reseat.
+10. Recommended MVP Control Panel
+Your Replit page should have a left or right panel:
+
+
+
+
+Plain Text
+VALVE COMMAND™ PSV-101
+ 
+Pressure Slider:
+0 psi ---------------- 200 psi
+ 
+Set Pressure:
+150 psi
+ 
+Mode:
+[Clean]
+[Fouled]
+[Leaking Seat]
+[Damaged Seat]
+[Chatter]
+[Stuck Open]
+[Failed to Lift]
+ 
+Display:
+[ ] Cutaway Mode
+[ ] Flow Arrows
+[ ] Labels
+[ ] Failure Overlay
+ 
+Student Task:
+Diagnose the condition and recommend action.
+
+Show more lines
+11. Suggested Component Structure
+Build it clean so you can reuse it for gate valves, ball valves, check valves, and control valves.
+
+
+
+
+Plain Text
+src/
+├── components/
+│   └── ValveCommand/
+│       ├── ValveCommandLab.tsx
+│       ├── PSVSimulator.tsx
+│       ├── PSVModel.tsx
+│       ├── ValveControls.tsx
+│       ├── ValveLabels.tsx
+│       ├── FoulingDeposits.tsx
+│       ├── FlowVisualization.tsx
+│       ├── FailureModeOverlay.tsx
+│       └── TrainingPanel.tsx
+│
+├── data/
+│   ├── valveParts.ts
+│   ├── valveFailureModes.ts
+│   └── valveQuizQuestions.ts
+
+Show more lines
+12. First Replit Prompt to Build This
+You can paste this into Replit AI:
+
+
+
+
+Plain Text
+Build a React Three Fiber component called ValveCommandLab for an interactive PSV cutaway simulator.
+ 
+The simulator should include a simplified 3D pressure safety valve with body, inlet nozzle, outlet, disc, seat, spring, bonnet, and cutaway view. Add a pressure slider from 0 to 200 psi. The PSV set pressure is 150 psi. Below 150 psi, the disc remains seated. From 150 to 175 psi, the disc lifts smoothly. Above 175 psi, the disc reaches full lift.
+ 
+Add controls for:
+- cutaway mode
+- show labels
+- show flow arrows
+- failure mode selector with clean, fouled, leaking seat, damaged seat, chatter, stuck open, and failed to lift
+ 
+Add visual fouling deposits around the nozzle and seat when fouled mode is selected. Add a small blue leak stream across the seat when leaking seat mode is selected. Add a red damaged seat ring when damaged seat mode is selected. Add disc vibration animation when chatter mode is selected.
+ 
+Add interactive labels using @react-three/drei Html for spring, disc, seat, nozzle, bonnet, and outlet. When a label is clicked, show a side panel with explanation text.
+ 
+Add a training panel showing current pressure, operating state, valve lift percentage, current failure mode, and student guidance.
+
+Show more lines
+13. Inspector-Style Learning Outcomes
+For the HIT course, each simulation should produce a training record.
+
+Example student output:
+
+
+
+
+Plain Text
+Asset: PSV-101
+Condition Simulated: Fouled seat with leakage
+Observed Behavior: Valve did not fully reseat after pressure reduction
+Probable Cause: Debris or fouling on seating surface
+Recommended Action: Remove PSV from service for shop inspection, bench test, clean/repair seating surfaces, verify set pressure and reseat performance prior to return to service
+Inspector Note: Evaluate upstream process for fouling source and confirm discharge piping is unobstructed
+This makes the simulator feel like real mechanical integrity training, not just a 3D model.
+
+Best Build Order
+Do it in this exact order:
+
+
+
+
+Plain Text
+1. Static PSV cutaway model
+2. Pressure slider
+3. Disc lift animation
+4. Flow arrows
+5. Interactive labels
+6. Fouling visual overlay
+7. Leakage stream
+8. Chatter animation
+9. Student diagnosis panel
+10. Save result to D-IMS/student database
+My honest thought: this could become one of your strongest HIT modules. A cutaway valve lab teaches what many inspectors and engineers never actually see — how the valve operates internally, how failure starts, and how the condition should be documented and acted on.
+
+
+
+
+
+
+
+
+You said:
+all three
+Copilot said:
+Copilot
+
+Reasoning completed in 1 step
+Absolutely — here are all three ready for your Replit build:
+
+Full Replit AI prompt
+Starter React Three Fiber component code
+Training/course structure for Valve Command™
+1. Full Replit AI Prompt
+Paste this directly into Replit AI:
+
+
+
+
+Plain Text
+Build a React Three Fiber interactive training module called ValveCommandLab.
+ 
+The purpose of the module is to teach inspectors and engineers how pressure safety valves, isolation valves, and relief devices operate internally using a 3D cutaway simulation.
+ 
+Create an interactive PSV cutaway simulator first.
+ 
+Technical requirements:
+- Use React, TypeScript, Three.js, @react-three/fiber, and @react-three/drei.
+- Create a 3D pressure safety valve with simplified components:
+  - valve body
+  - inlet nozzle
+  - outlet
+  - disc
+  - seat
+  - spring
+  - bonnet
+  - stem/guide
+  - flow path
+- Add OrbitControls so the student can rotate and zoom around the valve.
+- Add a pressure slider from 0 to 200 psi.
+- Set pressure shall be 150 psi.
+- Below 150 psi, the disc remains seated.
+- From 150 psi to 175 psi, the disc lifts smoothly.
+- Above 175 psi, the disc reaches full lift.
+- Display valve lift percentage.
+- Display operating state based on pressure.
+ 
+Add controls for:
+- Cutaway mode on/off
+- Show labels on/off
+- Show flow arrows on/off
+- Failure mode selector
+ 
+Failure modes:
+- Clean
+- Fouled seat
+- Leaking seat
+- Damaged seat
+- Chatter
+- Stuck open
+- Failed to lift
+ 
+Visual requirements:
+- In clean mode, show normal metallic components.
+- In fouled mode, add brown/black fouling deposits around the seat, nozzle, and disc area.
+- In leaking seat mode, show a small blue leak stream across the seat even when the valve is closed.
+- In damaged seat mode, show a red highlighted ring around the seat.
+- In chatter mode, animate the disc rapidly up and down when pressure is at or above set pressure.
+- In stuck open mode, keep the disc lifted even when pressure drops below set pressure.
+- In failed to lift mode, keep the disc closed even when pressure exceeds set pressure.
+- Add blue flow arrows when the valve is relieving.
+ 
+Interactive label requirements:
+- Use Html from @react-three/drei for clickable labels.
+- Add labels for:
+  - Spring
+  - Disc
+  - Seat
+  - Nozzle
+  - Bonnet
+  - Outlet
+  - Flow Path
+- When the student clicks a label, show a side panel explaining that component.
+ 
+Training panel requirements:
+- Show current pressure.
+- Show set pressure.
+- Show valve lift percentage.
+- Show operating state.
+- Show current failure mode.
+- Show inspector-style student guidance.
+- Add a student diagnosis section with a dropdown and text box.
+- Add a submit button that creates a mock training record.
+ 
+Training objective:
+The student should understand how a PSV opens, relieves, reseats, leaks, chatters, fouls, or fails in service.
+ 
+Style:
+Use a clean industrial training dashboard style with dark panels, blue highlights, rounded cards, and clear labels.
+
+Show more lines
+2. Starter React Three Fiber Code
+This is a simplified working starter. Replit AI can expand it, but this gives your project the correct direction.
+
+Install first:
+
+
+
+
+Shell
+npm install three @react-three/fiber @react-three/drei
+Create:
+
+
+
+
+Plain Text
+src/components/ValveCommandLab.tsx
+Paste:
+
+
+
+
+TypeScript
+import React, { useMemo, useRef, useState } from "react";
+import { Canvas, useFrame } from "@react-three/fiber";
+import { OrbitControls, Html } from "@react-three/drei";
+import * as THREE from "three";
+ 
+type FailureMode =
+  | "clean"
+  | "fouled"
+  | "leaking-seat"
+  | "damaged-seat"
+  | "chatter"
+  | "stuck-open"
+  | "failed-to-lift";
+ 
+const SET_PRESSURE = 150;
+const FULL_LIFT_PRESSURE = 175;
+ 
+function calculateValveLift(pressure: number, failureMode: FailureMode) {
+  if (failureMode === "stuck-open") return 1;
+  if (failureMode === "failed-to-lift") return 0;
+ 
+  if (pressure < SET_PRESSURE) return 0;
+ 
+  if (pressure >= SET_PRESSURE && pressure < FULL_LIFT_PRESSURE) {
+    return (pressure - SET_PRESSURE) / (FULL_LIFT_PRESSURE - SET_PRESSURE);
+  }
+ 
+  return 1;
+}
+ 
+function getOperatingState(pressure: number, failureMode: FailureMode) {
+  if (failureMode === "stuck-open") return "Failure: PSV stuck open.";
+  if (failureMode === "failed-to-lift") return "Failure: PSV failed to lift.";
+  if (failureMode === "chatter" && pressure >= SET_PRESSURE) {
+    return "Failure: PSV chatter detected.";
+  }
+  if (pressure < SET_PRESSURE * 0.9) return "Normal operation: PSV seated.";
+  if (pressure < SET_PRESSURE) return "Approaching set pressure.";
+  if (pressure < FULL_LIFT_PRESSURE) return "PSV opening: disc lifting.";
+  return "Full lift: relief flow active.";
+}
+ 
+function ValveLabel({
+  position,
+  title,
+  onClick,
+}: {
+  position: [number, number, number];
+  title: string;
+  onClick: () => void;
+}) {
+  return (
+    <Html position={position}>
+      <button
+        onClick={onClick}
+        style={{
+          background: "#0f62fe",
+          color: "white",
+          border: "none",
+          borderRadius: "8px",
+          padding: "4px 8px",
+          fontSize: "12px",
+          cursor: "pointer",
+          boxShadow: "0 4px 12px rgba(0,0,0,0.35)",
+        }}
+      >
+        {title}
+      </button>
+    </Html>
+  );
+}
+ 
+function FlowArrow({
+  position,
+  rotation = [0, 0, 0],
+}: {
+  position: [number, number, number];
+  rotation?: [number, number, number];
+}) {
+  return (
+    <group position={position} rotation={rotation}>
+      <mesh position={[0, 0.25, 0]}>
+        <cylinderGeometry args={[0.025, 0.025, 0.5, 16]} />
+        <meshStandardMaterial color="#00aaff" emissive="#0088ff" />
+      </mesh>
+      <mesh position={[0, 0.55, 0]}>
+        <coneGeometry args={[0.08, 0.18, 16]} />
+        <meshStandardMaterial color="#00aaff" emissive="#0088ff" />
+      </mesh>
+    </group>
+  );
+}
+ 
+function FoulingDeposits({ active }: { active: boolean }) {
+  const deposits = useMemo(() => {
+    return Array.from({ length: 28 }).map((_, index) => {
+      const angle = (index / 28) * Math.PI * 2;
+      const radius = 0.42 + Math.random() * 0.08;
+      return {
+        position: [
+          Math.cos(angle) * radius,
+          -0.25 + Math.random() * 0.25,
+          Math.sin(angle) * radius,
+        ] as [number, number, number],
+        scale: [
+          0.04 + Math.random() * 0.05,
+          0.03 + Math.random() * 0.04,
+          0.04 + Math.random() * 0.05,
+        ] as [number, number, number],
+      };
+    });
+  }, []);
+ 
+  if (!active) return null;
+ 
+  return (
+    <group>
+      {deposits.map((deposit, index) => (
+        <mesh key={index} position={deposit.position} scale={deposit.scale}>
+          <sphereGeometry args={[1, 8, 8]} />
+          <meshStandardMaterial color="#5a3921" roughness={1} />
+        </mesh>
+      ))}
+    </group>
+  );
+}
+ 
+function LeakStream({ active }: { active: boolean }) {
+  if (!active) return null;
+ 
+  return (
+    <mesh position={[0, -0.16, 0]} rotation={[Math.PI / 2, 0, 0]}>
+      <cylinderGeometry args={[0.025, 0.025, 1.1, 16]} />
+      <meshStandardMaterial
+        color="#00aaff"
+        emissive="#0088ff"
+        transparent
+        opacity={0.65}
+      />
+    </mesh>
+  );
+}
+ 
+function DamagedSeat({ active }: { active: boolean }) {
+  if (!active) return null;
+ 
+  return (
+    <mesh position={[0, -0.18, 0]} rotation={[Math.PI / 2, 0, 0]}>
+      <torusGeometry args={[0.43, 0.025, 16, 64]} />
+      <meshStandardMaterial color="red" emissive="red" emissiveIntensity={0.7} />
+    </mesh>
+  );
+}
+ 
+function PSVModel({
+  pressure,
+  failureMode,
+  showLabels,
+  showFlow,
+  cutawayMode,
+  onSelectPart,
+}: {
+  pressure: number;
+  failureMode: FailureMode;
+  showLabels: boolean;
+  showFlow: boolean;
+  cutawayMode: boolean;
+  onSelectPart: (part: string) => void;
+}) {
+  const discRef = useRef<THREE.Mesh>(null);
+  const springRef = useRef<THREE.Mesh>(null);
+ 
+  const baseLift = calculateValveLift(pressure, failureMode);
+ 
+  useFrame((state) => {
+    if (!discRef.current) return;
+ 
+    let targetY = baseLift * 0.65;
+ 
+    if (failureMode === "chatter" && pressure >= SET_PRESSURE) {
+      targetY += Math.sin(state.clock.getElapsedTime() * 35) * 0.08;
+    }
+ 
+    discRef.current.position.y += (targetY - discRef.current.position.y) * 0.12;
+ 
+    if (springRef.current) {
+      springRef.current.scale.y = 1 - baseLift * 0.25;
+    }
+  });
+ 
+  const bodyOpacity = cutawayMode ? 0.38 : 1;
+ 
+  return (
+    <group>
+      {/* Valve Body */}
+      <mesh position={[0, 0, 0]}>
+        <cylinderGeometry args={[0.75, 0.75, 1.45, 48]} />
+        <meshStandardMaterial
+          color="#5f6b73"
+          transparent={cutawayMode}
+          opacity={bodyOpacity}
+          roughness={0.55}
+          metalness={0.45}
+        />
+      </mesh>
+ 
+      {/* Inlet Nozzle */}
+      <mesh position={[0, -0.85, 0]}>
+        <cylinderGeometry args={[0.35, 0.35, 0.65, 32]} />
+        <meshStandardMaterial color="#777f86" metalness={0.45} roughness={0.5} />
+      </mesh>
+ 
+      {/* Outlet */}
+      <mesh position={[0.85, 0.1, 0]} rotation={[0, 0, Math.PI / 2]}>
+        <cylinderGeometry args={[0.28, 0.28, 1.1, 32]} />
+        <meshStandardMaterial color="#777f86" metalness={0.45} roughness={0.5} />
+      </mesh>
+ 
+      {/* Bonnet */}
+      <mesh position={[0, 1.05, 0]}>
+        <cylinderGeometry args={[0.42, 0.42, 0.9, 32]} />
+        <meshStandardMaterial color="#4d5860" metalness={0.45} roughness={0.5} />
+      </mesh>
+ 
+      {/* Spring */}
+      <mesh ref={springRef} position={[0, 1.08, 0]}>
+        <torusKnotGeometry args={[0.18, 0.025, 120, 8]} />
+        <meshStandardMaterial color="#c9d1d9" metalness={0.8} roughness={0.25} />
+      </mesh>
+ 
+      {/* Disc */}
+      <mesh ref={discRef} position={[0, 0, 0]}>
+        <cylinderGeometry args={[0.43, 0.43, 0.12, 32]} />
+        <meshStandardMaterial color="#d7dde3" metalness={0.8} roughness={0.22} />
+      </mesh>
+ 
+      {/* Seat */}
+      <mesh position={[0, -0.18, 0]} rotation={[Math.PI / 2, 0, 0]}>
+        <torusGeometry args={[0.43, 0.025, 16, 64]} />
+        <meshStandardMaterial color="#c7b177" metalness={0.6} roughness={0.3} />
+      </mesh>
+ 
+      <FoulingDeposits active={failureMode === "fouled"} />
+ 
+      <LeakStream
+        active={
+          failureMode === "leaking-seat" ||
+          failureMode === "damaged-seat" ||
+          failureMode === "fouled"
+        }
+      />
+ 
+      <DamagedSeat active={failureMode === "damaged-seat"} />
+ 
+      {showFlow && baseLift > 0 && (
+        <>
+          <FlowArrow position={[0, -0.8, 0]} rotation={[0, 0, 0]} />
+          <FlowArrow position={[0.75, 0.1, 0]} rotation={[0, 0, -Math.PI / 2]} />
+        </>
+      )}
+ 
+      {showLabels && (
+        <>
+          <ValveLabel
+            position={[0, 1.65, 0]}
+            title="Spring"
+            onClick={() => onSelectPart("spring")}
+          />
+          <ValveLabel
+            position={[0.55, 0.2, 0]}
+            title="Disc"
+            onClick={() => onSelectPart("disc")}
+          />
+          <ValveLabel
+            position={[-0.65, -0.18, 0]}
+            title="Seat"
+            onClick={() => onSelectPart("seat")}
+          />
+          <ValveLabel
+            position={[0, -1.25, 0]}
+            title="Nozzle"
+            onClick={() => onSelectPart("nozzle")}
+          />
+          <ValveLabel
+            position={[0.65, 1.05, 0]}
+            title="Bonnet"
+            onClick={() => onSelectPart("bonnet")}
+          />
+          <ValveLabel
+            position={[1.45, 0.1, 0]}
+            title="Outlet"
+            onClick={() => onSelectPart("outlet")}
+          />
+        </>
+      )}
+    </group>
+  );
+}
+ 
+const partDescriptions: Record<string, string> = {
+  spring:
+    "The spring provides closing force against the disc. Incorrect spring force can cause early lift, late lift, chatter, or failure to reseat.",
+  disc:
+    "The disc seals against the seat/nozzle. When process pressure reaches set pressure, the disc lifts and allows relief flow.",
+  seat:
+    "The seat is the sealing surface. Damage, debris, corrosion, or wire drawing can cause leakage or failure to reseat.",
+  nozzle:
+    "The nozzle is the inlet path where process pressure acts against the disc. Fouling or damage at this area can affect PSV performance.",
+  bonnet:
+    "The bonnet houses the spring and guiding components. Corrosion or mechanical damage in this area can impact valve movement.",
+  outlet:
+    "The outlet routes relieved fluid to the discharge system. Restrictions, backpressure, or poor piping configuration can contribute to chatter or poor performance.",
+};
+ 
+export default function ValveCommandLab() {
+  const [pressure, setPressure] = useState(0);
+  const [failureMode, setFailureMode] = useState<FailureMode>("clean");
+  const [showLabels, setShowLabels] = useState(true);
+  const [showFlow, setShowFlow] = useState(true);
+  const [cutawayMode, setCutawayMode] = useState(true);
+  const [selectedPart, setSelectedPart] = useState("seat");
+  const [diagnosis, setDiagnosis] = useState("");
+  const [recommendation, setRecommendation] = useState("");
+ 
+  const valveLift = calculateValveLift(pressure, failureMode);
+  const operatingState = getOperatingState(pressure, failureMode);
+ 
+  function submitTrainingRecord() {
+    const record = {
+      assetTag: "PSV-101",
+      module: "Valve Command PSV Cutaway",
+      pressure,
+      setPressure: SET_PRESSURE,
+      failureMode,
+      valveLiftPercent: Math.round(valveLift * 100),
+      diagnosis,
+      recommendation,
+      timestamp: new Date().toISOString(),
+    };
+ 
+    console.log("Training Record:", record);
+    alert("Training record created. Check console for mock record.");
+  }
+ 
+  return (
+    <div
+      style={{
+        display: "grid",
+        gridTemplateColumns: "1fr 380px",
+        height: "100vh",
+        background: "#07111f",
+        color: "white",
+        fontFamily: "Inter, system-ui, sans-serif",
+      }}
+    >
+      <div>
+        <Canvas camera={{ position: [3, 2.4, 4], fov: 45 }}>
+          <ambientLight intensity={0.55} />
+          <directionalLight position={[4, 6, 4]} intensity={1.2} />
+          <pointLight position={[-3, 2, -2]} intensity={0.5} />
+ 
+          <PSVModel
+            pressure={pressure}
+            failureMode={failureMode}
+            showLabels={showLabels}
+            showFlow={showFlow}
+            cutawayMode={cutawayMode}
+            onSelectPart={setSelectedPart}
+          />
+ 
+          <OrbitControls enabl
