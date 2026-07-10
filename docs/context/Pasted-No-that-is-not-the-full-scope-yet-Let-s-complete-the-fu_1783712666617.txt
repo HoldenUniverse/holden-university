@@ -1,0 +1,83 @@
+No, that is not the full scope yet. Let’s complete the full buildout for all of the future MIOA catalog programs that are only listed by name right now.
+
+Right now, Process Technology and Instrumentation & Controls have not been built. They only appear as names inside the larger aspirational MIOA University Catalog files, specifically `mios-curriculum-map.tsx` and `university-catalog.tsx`.
+
+The catalog currently lists 9 future programs:
+
+1. Process Technology
+2. Industrial Coatings & Corrosion Control
+3. Critical Bolting & Joint Integrity
+4. Drone / UAS Industrial Inspection
+5. Industrial Maintenance Technology
+6. Electrical Safety & Compliance
+7. Instrumentation & Controls
+8. Welding Technology
+9. Engineering Support Services
+
+None of these currently have real curriculum entries, full course pages, module structures, lesson content, flipbook content, quizzes, competency maps, or student-facing learning experiences.
+
+Please proceed with building all of these programs into the MIOA University Catalog structure.
+
+Priority order:
+
+Phase 1 — Complete the immediate missing courses:
+
+* IF-101 — Industrial Fundamentals
+* CNS-101 — Corrosion Never Sleeps
+* PIPE-101 — Pipe Specifications
+
+Build each as a full course with:
+
+* Course overview
+* Learning outcomes
+* 20–25 modules
+* Lesson summaries
+* Key terminology
+* Field application sections
+* Student activities
+* Knowledge checks
+* Scenario-based exercises
+* Final competency assessment
+* Flipbook-ready content
+* Audiobook-ready narration structure
+* Instructor notes
+* Student workbook sections
+
+Phase 2 — Build the two major missing programs:
+
+* Process Technology
+* Instrumentation & Controls
+
+Each program should include:
+
+* Program overview
+* Career pathway
+* Course sequence
+* Course codes
+* Course titles
+* Full course descriptions
+* Module breakdowns
+* Lab/simulation activities
+* Industrial scenario exercises
+* Assessments
+* Competency evidence
+* Flipbook content
+* Connection to Mechanical Integrity, NDE, reliability, operations, and safety
+
+Phase 3 — Build the remaining 7 catalog programs:
+
+* Industrial Coatings & Corrosion Control
+* Critical Bolting & Joint Integrity
+* Drone / UAS Industrial Inspection
+* Industrial Maintenance Technology
+* Electrical Safety & Compliance
+* Welding Technology
+* Engineering Support Services
+
+Each program should be developed to the same standard as the rest of Holden University / MIOA, not just listed as a name.
+
+Also clean up the redundant AAMP entries so the catalog does not repeat or conflict with itself.
+
+The final goal is that the MIOA University Catalog feels like a real academic and workforce training ecosystem, not a placeholder list. Every program should have enough substance that a student, employer, workforce board, community college, or regulator could understand what is being taught, why it matters, and how competency is measured.
+
+Please start now by building IF-101, CNS-101, and PIPE-101 as complete full courses, then continue into Process Technology and Instrumentation & Controls.
