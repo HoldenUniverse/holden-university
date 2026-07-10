@@ -1,0 +1,47 @@
+# HOLDEN UNIVERSITY — VISUAL ASSET MANIFEST
+  # Uploaded: July 2026 | All images available via @assets/ in the Vite project
+
+  ## ELECTRICAL SYSTEMS SCHOOL — Course Imagery (10 images)
+  # Contact sheet: @assets/00_Contact_Sheet_1783716374474.png
+
+  | # | Asset Key | Description | Use Case |
+  |---|-----------|-------------|----------|
+  | 01 | @assets/01_Medium_Voltage_1783716374475.png | Cutaway control valve with positioner, gauges, and tools on workbench | ESC-101 / Medium Voltage lab hero |
+  | 02 | @assets/02_High_Voltage_1783716374475.png | Dense instrumentation loop — Rosemount transmitters, manifolds, multimeter | ESC-102 / High Voltage / Instrumentation lab |
+  | 03 | @assets/03_Hazardous_Area_Inspection_1783716374476.png | Full-width control room — P&ID screens, operator workstations, blue lighting | Hazardous Area Inspection / Control Room course |
+  | 04 | @assets/04_Motors_1783716374476.png | Siemens S7 PLC panel open with laptop running logic diagram | ESC / Motors & PLC course |
+  | 05 | @assets/05_MCC_Systems_1783716374477.png | Fire & gas detection panel — flame detector, gas sensor, alarm horn, red call point | Fire & Gas / MCC Systems course |
+  | 06 | @assets/06_Generators_1783716374477.png | Instrumentation & controls training bench — transmitters, valves, actuators, Fluke meter | Generator / I&C lab bench |
+  | 07 | @assets/07_Power_Distribution_1783716374478.png | Futuristic automation lab — robot arm, control valves, Yokogawa transmitters, blue data screens | Power Distribution / Advanced Automation |
+  | 08 | @assets/08_Electrical_Lug_Cable_Termination_Failure_1783716374478.png | Corroded field instruments — failed junction box, rusted transmitter, flashlight | Failure analysis / Electrical Lug & Cable Termination |
+  | 09 | @assets/09_Transformer_Inspection_1783716374479.png | Large control valve in refinery — positioner, pressure gauges, Fluke calibrator, P&ID drawings | Transformer / Valve inspection lab |
+  | 10 | @assets/10_Electrical_Systems_Academy_Hall_1783716374479.png | Inspector's Guild — College of Instrumentation and Controls academy hall (Black/Gold, crest, equipment display cases) | School of Electrical / Academy Hall hero |
+
+  ## HOLDEN UNIVERSITY — BRANDED INFOGRAPHICS
+  | Asset Key | Description | Use Case |
+  |-----------|-------------|----------|
+  | @assets/ChatGPT_Image_Jul_3,_2026,_07_06_02_AM_1783716374479.png | RBI — Risk-Based Inspection full infographic (Navy/Gold, HU crest) 7-step process, risk matrix, careers | MIOA / RBI course page, resource section |
+  | @assets/ChatGPT_Image_Jul_3,_2026,_07_06_15_AM_(1)_1783716374480.png | Temporary Repairs infographic v1 — 6 methods, 6-step process, documentation requirements | MIOA / Temp Repair course page |
+  | @assets/ChatGPT_Image_Jul_3,_2026,_07_06_15_AM_(2)_1783716374480.png | Temporary Repairs infographic v2 — alternate layout, same content, common applications table | MIOA / Temp Repair alt version |
+  | @assets/ChatGPT_Image_Jul_5,_2026,_09_19_01_AM_1783716374481.png | School of Mechanical Integrity and Industrial Operations — full campus poster (5 sections: Campus, Industrial Infrastructure, Digital Twin, Labs, Virtual Classroom) | SMIIO school page hero |
+
+  ## INTEGRITYOS PLATFORM — UI SCREENSHOTS (for reference/marketing)
+  | Asset Key | Description | Use Case |
+  |-----------|-------------|----------|
+  | @assets/ChatGPT_Image_Jul_6,_2026,_05_23_21_PM_1783716374481.png | IntegrityOS Facility Worlds v1 — 3 facility cards (Perdido, Gulf Coast Refinery, Fixed-Leg Platform) dark compact style | IntegrityOS platform page |
+  | @assets/ChatGPT_Image_Jul_6,_2026,_05_24_58_PM_1783716374482.png | IntegrityOS Facility Worlds v2 — full hero banner with offshore sunset, 3 facility cards + feature icons | IntegrityOS platform page hero |
+  | @assets/ChatGPT_Image_Jul_6,_2026,_05_26_37_PM_1783716374482.png | IntegrityOS Facility Worlds v3 — same as v2 with notification badge (3 alerts) | IntegrityOS platform page |
+
+  ## INTEGRITYOS — 3D ASSET LIBRARY (for Phase 2/3 build reference)
+  | Asset Key | Description | Use Case |
+  |-----------|-------------|----------|
+  | @assets/ChatGPT_Image_Jul_7,_2026,_01_04_09_PM_1783716374483.png | Offshore Production Module spec sheet — 3-level module, 14 major equipment items, inspection hotspots, damage mechanisms, PFD, all views | IQ Twin / Phase 3 asset reference |
+  | @assets/ChatGPT_Image_Jul_7,_2026,_01_04_18_PM_1783716374483.png | Offshore & Process Plant Equipment Library — 13-item catalog (Production Module, Process Skid, Power Gen, Heat Exchangers, Compressors, Vessel, Pump, MCC, Flare) FBX/OBJ/GLTF formats | Phase 2/3 3D asset procurement reference |
+
+  ## ASSET NOTES
+  - All 20 images are PNGs stored in attached_assets/ and importable via @assets/ alias in Vite
+  - Electrical Systems images (01-10) appear to be AI-generated training imagery for the Inspector's Guild / Operators Guild courses
+  - Image #10 shows the actual Inspector's Guild branding: "College of Instrumentation and Controls"
+  - The 3D equipment library catalog (last image) lists 13 modules available in FBX/OBJ/GLTF/BLEND formats — useful for Phase 2 3D campus
+  - IntegrityOS screenshots show the actual platform UI design direction (dark navy, gold accents, hotspot system)
+  
