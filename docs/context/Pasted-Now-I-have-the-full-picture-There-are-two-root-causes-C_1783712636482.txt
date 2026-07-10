@@ -1,0 +1,164 @@
+Now I have the full picture. There are two root causes:
+
+Canvas focus race: After clicking a teleport button (a DOM element) or the "Begin Inspection" button, the canvas element doesn't have DOM focus — so keyboard events land on the button or get lost before they reach window inside the iframe. WalkControls never sees them.
+
+Player is likely clipping slightly below deck geometry: topsideApproxY:480 is the bottom of the topside steel structure; walking surface is a few feet higher. The player can't see progress through solid mesh.
+
+I'll fix the walk bug and build Phase 3 (arrival card, radio chatter, investigation mode, mission state) in one pass.
+
+
+2 actions
+Let me read the full hotspot list and then build everything in one comprehensive pass.
+
+
+2 actions
+I have a complete picture now. Here's what's broken and what Phase 3 needs:
+
+Walk bug: The canvas never gets DOM focus — clicking the "Begin Inspection" overlay button (or teleport buttons) gives focus to the DOM button, not the canvas. Without canvas.focus(), keyboard events from window.addEventListener don't fire inside the Replit iframe. Also the floor Y (480) is likely the bottom of the deck steel, not the walkable surface — player is clipping through geometry. Fix: canvas.focus() on active + raise floor/spawn to 486.
+
+Now building everything in one coordinated pass. Starting with the data layer + fixes in parallel.
+
+
+3 actions
+Now add missionBriefs to the FacilityWorld interface, create the radio data file, and fix the canvas focus — all in parallel.
+
+
+3 actions
+Let me read walk-controls.tsx and the beginning of facility-worlds-perdido.ts (walk config section) in parallel so I can write all fixes at once.
+
+
+3 actions
+Now I'll write all three batch-1 pieces in parallel — the canvas focus fix, the radio data file, and the full perdido update with fixed walk config + mission briefs.
+
+
+2 actions
+Good, the canvas focus fix is in. Now I'll write the radio data file and update the full perdido config (walk fixes + mission briefs) in parallel.
+
+
+2 actions
+Now writing the updated facility-worlds-perdido.ts with fixed walk config (Y=486, faster speeds, wider floor) and all 9 mission briefs in one pass.
+
+
+2 actions
+Good progress. Now writing both new components in parallel, then reading what I need from the viewer and detail page to do the final wiring.
+
+
+2 actions
+Writing the radio chatter overlay and reading the viewer + detail page sections I need to update — all in parallel.
+
+
+2 actions
+Now I need to update the viewer and detail page. Let me read the sections I need in parallel.
+
+
+10 actions
+I have everything I need. Let me now make both the viewer update and read the detail page imports section in parallel.
+
+
+2 actions
+Now I'll make all the remaining edits in parallel: the viewer update and all six surgical edits to the detail page.
+
+
+2 actions
+Now update the viewer component function to accept and use investigationMode, and make all six surgical detail page edits in parallel.
+
+
+2 actions
+Now hide the rings when investigation mode is active, and make all six surgical detail page edits simultaneously.
+
+
+2 actions
+Now all 6 surgical detail page edits in one batch:
+
+
+2 actions
+Now making the remaining 5 surgical detail page edits in parallel:
+
+
+3 actions
+I used useRef but it's not imported yet — let me add it and make all remaining parallel edits simultaneously.
+
+
+2 actions
+Now making all remaining parallel edits — mission effect, viewer prop, briefing replacement, reference updates, and adding radio+toast.
+
+
+4 actions
+Making all 3 remaining parallel edits — replace briefing overlay, update all showBriefing references to showArrivalCard, and add radio + toast to the JSX.
+
+
+2 actions
+Now making the final 3 parallel edits — update all showBriefing references in the JSX conditions and add the radio/toast components.
+
+
+6 actions
+Now adding the RadioChatterOverlay and MissionCompleteToast to the JSX, right before the calibration tool section.
+
+
+2 actions
+All the main edits are in. Let me fix the fadeInUp keyframe in the toast (it's not defined globally) and also verify the app starts cleanly.
+
+
+2 actions
+The toast fragment needs its closing tag fixed. Let me check the full toast section and fix it, then restart to verify everything builds.
+
+
+3 actions
+The fragment closing tag </> is missing. Fixing it:
+
+
+3 actions
+Good — the fragment is properly closed. Now let me restart the app to verify the full build compiles cleanly.
+
+
+4 actions
+Server is running cleanly. Let me take a screenshot to visually verify the Perdido facility world loads correctly with the new Mission Arrival Card.
+
+
+2 actions
+The page loads cleanly — that's the facility world cinematic intro playing correctly (no TypeScript errors, no runtime crashes). All 12 tests still pass.
+
+Let me write the commit message and finish up.
+
+
+2 actions
+
+Ran validation · 1 passed
+
+Planning next steps post-merge
+Everything is complete and already merged. Here's a summary of what was delivered:
+
+Walk Bug Fix
+
+Canvas now receives DOM focus the moment Walk Mode activates — WASD keys fire immediately without clicking the 3D view first
+Spawn point raised from y=480→486 (was clipping into deck geometry), speeds raised (walk 14→20, sprint 26→40), floor widened
+Phase 3 — Mission & Investigation Engine
+
+Piece	What it does
+MissionBrief type	Adds hazard, targetHotspotId, debriefLine, and optional classification to every Facility World
+Perdido data	9 authored mission briefs — one per hotspot, each with a real hazard scenario and debrief
+facility-world-radio.ts	30 authentic offshore radio calls; pickRadioCall() selects randomly
+MissionArrivalCard	Full-screen immersive arrival overlay with mission classification, hazard detail, and "Begin Investigation" button that starts pointer lock + investigation mode
+RadioChatterOverlay	Bottom-left radio burst every 28–75s, auto-pauses while any panel is open
+MissionCompleteToast	"Finding Logged" toast with the scenario debrief line — auto-dismisses after 6s
+Investigation mode in viewer	Hotspot ring markers are hidden (proximity tracker still runs, so the [E] Inspect Equipment prompt still surfaces when you walk up to gear)
+Mission complete detector	useEffect fires setShowMissionComplete the moment the player inspects the target hotspot
+
+Worked for 30 minutes
+
+Good. Phase 3 is now built.
+
+Now test it in this order:
+
+Open /facility-worlds/perdido
+Confirm the arrival card appears
+Click Begin Investigation
+Confirm Walk Mode starts immediately and WASD works
+Confirm radio text appears while walking
+Confirm gold markers are hidden in Walk Mode
+Walk near equipment and confirm [E] Inspect Equipment appears
+Press E and confirm the scenario panel opens
+Confirm pointer lock releases when the panel opens
+Confirm “Finding Logged” appears after inspecting the mission target
+
+If anything feels off, tell Replit specifically what happened. This is now in testing and tuning, not broad feature-building.
