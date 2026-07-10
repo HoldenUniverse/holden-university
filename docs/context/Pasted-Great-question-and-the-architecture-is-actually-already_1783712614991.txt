@@ -1,0 +1,493 @@
+Great question — and the architecture is actually already built to handle it. Here's how it works and where it's going:
+
+The core idea: worlds are themed containers
+
+Each Facility World is a physical location — an offshore spar, a refinery, a nuclear plant, a pipeline corridor — that naturally hosts the scenarios that belong there. Perdido currently has 9 hotspots pointing into real scenarios. But a single world can hold 50, 80, even 100+ hotspots.
+
+The path to 1,900+ scenarios across all worlds:
+
+World (planned)	Natural home for
+Perdido Offshore Spar (live)	Rope Access, Piping, ISV/NDE scenarios
+Refinery Process Unit	Piping, Turnaround, ICE, CME
+Nuclear Power Station	NUC, ETA, ICE, HPE
+Pipeline Corridor	PIP, FRE, CME, ERC
+Offshore FPSO	ROB, DTC, UAV, RA
+Petrochemical Complex	ISE / ICA flagship scenarios
+Construction Site	CME, RAM, RAI, RAER
+Control Room / OT Hub	ICE, DTC, HPE, ELA
+Each world gets a 3D model + hotspots. Every hotspot is just a { pillar, scenarioId } reference — the resolver already handles every pillar universally, so no new plumbing is needed. You add a world, author its hotspots, and all 7 work-package documents, D-IMS records, CodeIQ questions, and mission briefs flow through automatically.
+
+What "done" looks like:
+
+~15 worlds × ~100 hotspots each = all 1,900 scenarios accessible as real physical locations you can walk through, investigate, and log findings in. The mission engine we just built (arrival card, radio chatter, investigation mode, finding logged toast) scales to every one of them with zero extra code — just data.
+
+The bottleneck isn't code, it's 3D models. Each new world needs a .glb model file. The rest is authoring hotspot coordinates and mission briefs, which follows the same pattern as Perdido.
+
+I think this is the right architectural direction because you're separating the engine from the content. Once the engine is stable, growth comes primarily from adding assets and data rather than writing new application logic.
+
+Here's how I would evolve it into a long-term architecture.
+
+Layer 1 — The Industrial World Engine
+
+This layer never changes much.
+
+It is responsible for:
+
+Authentication
+Student progress
+Walking/navigation
+Camera
+Teleportation
+Mission system
+Hotspot detection
+Radio chatter
+HUD
+Inventory
+Evidence collection
+D-IMS integration
+CodeIQ
+CertIQ
+Report generation
+Analytics
+Multiplayer (future)
+
+Think of this as the "game engine" for IntegrityOS.
+
+Layer 2 — World Packages
+
+Every facility becomes a self-contained package.
+
+Example:
+
+World
+    Metadata
+    3D Model
+    Audio
+    Lighting
+    NPCs
+    Hotspots
+    Missions
+    Documents
+    Images
+
+Example:
+
+Perdido
+
+perdido.glb
+
+world.json
+
+missions/
+
+documents/
+
+photos/
+
+audio/
+
+hotspots.json
+
+Another:
+
+Shell Norco
+
+norco.glb
+
+hotspots.json
+
+missions.json
+
+photos
+
+emails
+
+drawings
+
+
+Every world follows exactly the same structure.
+
+Layer 3 — Hotspots
+
+Instead of hard coding anything:
+
+Pump
+
+Valve
+
+Flange
+
+Vessel
+
+Column
+
+Relief Valve
+
+Heat Exchanger
+
+Stair Tower
+
+Crane
+
+Helideck
+
+Lifeboat
+
+Compressor
+
+Control Panel
+
+Electrical MCC
+
+Analyzer Shelter
+
+Everything is simply:
+
+{
+
+id
+
+name
+
+position
+
+radius
+
+scenarioId
+
+pillar
+
+difficulty
+
+tags
+
+}
+
+The engine doesn't care whether it's
+
+API 570
+
+or
+
+Rope Access
+
+or
+
+Nuclear.
+
+It simply loads whatever scenario belongs there.
+
+Layer 4 — Scenario Database
+
+The scenario becomes the actual product.
+
+Scenario 1124
+
+Title
+
+Description
+
+Characters
+
+Mission
+
+Evidence
+
+Documents
+
+Photos
+
+Emails
+
+Videos
+
+CodeIQ Questions
+
+D-IMS
+
+Report
+
+Score
+
+CPD Credits
+
+Notice:
+
+The 3D world only launches the scenario.
+
+Everything else lives in data.
+
+Layer 5 — Universal Mission Engine
+
+Imagine every scenario running this same flow.
+
+Arrival
+
+↓
+
+Briefing
+
+↓
+
+Walkthrough
+
+↓
+
+Inspection
+
+↓
+
+Collect Evidence
+
+↓
+
+Interview Workers
+
+↓
+
+Review Documents
+
+↓
+
+Make Decisions
+
+↓
+
+Submit Findings
+
+↓
+
+Score
+
+↓
+
+Debrief
+
+↓
+
+CPD Credit
+
+That becomes your "operating system."
+
+Layer 6 — Equipment Library
+
+This is where it becomes really powerful.
+
+Instead of building every facility from scratch...
+
+You build reusable assets.
+
+Pressure Vessel
+
+Horizontal Vessel
+
+Vertical Vessel
+
+Separator
+
+Slug Catcher
+
+Compressor
+
+Heat Exchanger
+
+Tank
+
+Pipe Rack
+
+Valve
+
+Pump
+
+MCC
+
+Transformer
+
+PSV
+
+Flare
+
+Scrubber
+
+Pig Launcher
+
+Crane
+
+
+Each one already knows:
+
+common damage mechanisms
+inspection points
+documents
+CodeIQ questions
+RBI priorities
+maintenance history
+photographs
+animations
+
+Then any world can instantiate those assets.
+
+Layer 7 — Damage Library
+
+Now equipment becomes intelligent.
+
+A pipe isn't just geometry.
+
+It understands:
+
+CUI
+
+FAC
+
+MIC
+
+SCC
+
+HIC
+
+SOHIC
+
+Hydrogen Damage
+
+Fatigue
+
+Erosion
+
+Pitting
+
+Galvanic
+
+Thermal Fatigue
+
+Wet H2S
+
+Naphthenic Acid
+
+Chloride SCC
+
+Each mechanism contains
+
+Cause
+
+Inspection methods
+
+Typical locations
+
+Repair options
+
+Failure history
+
+Images
+
+Case studies
+
+Code references
+
+Now every pipe in every world can "fail" differently.
+
+Layer 8 — Asset DNA
+
+This is where your earlier "Industrial Genome" concept fits naturally.
+
+Every asset carries structured metadata.
+
+Asset
+
+↓
+
+Material
+
+↓
+
+Process
+
+↓
+
+Pressure
+
+↓
+
+Temperature
+
+↓
+
+Corrosion Loop
+
+↓
+
+Inspection History
+
+↓
+
+Failures
+
+↓
+
+Repairs
+
+↓
+
+Risk
+
+↓
+
+Remaining Life
+
+↓
+
+Current Mission
+
+Instead of a decorative pump...
+
+it becomes a living digital asset.
+
+Layer 9 — World Expansion
+
+You don't actually need 15 worlds immediately.
+
+I would prioritize depth before breadth.
+
+Phase 1 (5 highly detailed worlds)
+Perdido Offshore Spar
+Refinery Process Unit
+Petrochemical Complex
+Nuclear Power Station
+Pipeline Pump Station
+
+Each with roughly 100–150 hotspots and rich missions.
+
+Phase 2 (additional specialized worlds)
+FPSO
+LNG Terminal
+Offshore Jacket Platform
+Tank Farm
+Marine Terminal
+Construction Project
+Compressor Station
+Renewable Energy Facility (wind/hydrogen)
+Chemical Plant
+Power Generation Campus
+
+This creates a diverse industrial environment while reusing the same engine and asset libraries.
+
+Why this scales well
+
+Most educational platforms create a lesson, then write separate quizzes, reports, simulations, and practical exercises.
+
+Your architecture inverts that.
+
+A single scenario can drive:
+
+A 3D inspection mission
+A CodeIQ exercise
+A CertIQ practice question
+A D-IMS work package
+An inspection report
+A competency assessment
+A CPD activity
+A debrief discussion
+Analytics on decision-making
+
+That means every new scenario has value across multiple parts of the platform instead of existing in only one place.
+
+The main challenge becomes content production, not software architecture. The biggest investments are building or acquiring high-quality 3D facility models, authoring realistic missions, and creating the associated engineering documentation and evidence. If those are organized into reusable world packages and equipment libraries, the platform can continue expanding without requiring major changes to the underlying engine.
