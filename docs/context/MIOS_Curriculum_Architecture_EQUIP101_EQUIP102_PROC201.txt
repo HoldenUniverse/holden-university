@@ -1,0 +1,1436 @@
+July 3
+You said:
+What We Would Build (Copy/Paste Reference)
+1. EQUIP-101 — Industrial Equipment Fundamentals I
+Focus: Static Equipment
+
+Pressure Vessels
+Exchangers
+Towers
+Columns
+Tanks
+PRDs (Pressure Relief Devices)
+Code: EQUIP-101
+
+2. EQUIP-102 — Industrial Equipment Fundamentals II
+Focus: Dynamic Equipment
+
+Pumps
+Compressors
+Turbines
+Valves
+Seals
+Drivers
+Code: EQUIP-102
+
+3. PROC-201 — Process Technology
+Focus: Process Literacy (flagged as the platform's largest current gap)
+
+Oil & Gas Processing
+Refineries
+LNG
+Petrochemical
+Pipelines
+Produced Water
+Code: PROC-201ull flipbook chapters with real technical content
+Interactive workbook fields/checklists/scenarios
+Practice Exam + Final Exam
+Audiobook companion
+Registration in Course HubSemester 1 (already have): MI-100, DM-100, NDE-100, MI-FUND-L1
+Semester 2: EQUIP-101 + COR-200 (integrated)
+Semester 3: EQUIP-102
+Semester 4: PROC-201
+
+EQUIP-101 — Industrial Equipment Fundamentals I
+Focus: Static Equipment
+Audiobook title: "Inside The Asset™"
+
+Chapters:
+
+Pressure Vessel Fundamentals (Shells, Heads, Nozzles, MAWP, MDMT)
+ASME Vessel Design Concepts
+Heat Exchangers (Shell & Tube, Air Coolers, Plate Exchangers)
+Columns & Towers (Trays, Packing, Internals)
+Storage Tanks (Fixed Roof, Floating Roof, API 650)
+Pressure Relief Devices (Conventional, Balanced Bellows, Pilot Operated)
+Equipment Failure Modes
+Inspection Priorities
+Asset Integrity Case Studies
+Interactive Components: Equipment ID drills, internal component recognition, damage location mapping, inspection planning exercises
+
+Exams: Practice (25) / Final (50)
+
+EQUIP-102 — Industrial Equipment Fundamentals II
+Focus: Dynamic Equipment
+Audiobook title: "Systems In Motion™"
+
+Chapters:
+
+Pumps (Centrifugal, Positive Displacement)
+Compressors (Reciprocating, Centrifugal)
+Turbines
+Valves (Gate, Globe, Ball, Check)
+Mechanical Seals
+Drivers (Electric, Gas, Steam)
+Reliability & Failure Modes
+Inspection Requirements
+Dynamic Equipment Integrity
+Interactive Features: Diagnostic scenarios — high vibration, seal leak, bearing problem, valve failure, compressor shutdown
+
+PROC-201 — Process Technology for Integrity Professionals
+Focus: Process literacy — flagged as mandatory / highest-priority gap
+Audiobook title: "The Process Behind The Pipe™"
+
+Chapters:
+
+Oil & Gas Fundamentals (Upstream, Midstream, Downstream)
+Separators (2-Phase, 3-Phase)
+Gas Processing
+Produced Water Systems
+Pipeline Systems
+Refining Fundamentals (Crude, Distillation, Conversion)
+Petrochemical Operations
+LNG Fundamentals
+Process-Driven Damage Mechanisms (signature chapter — connects Process → Environment → Damage Mechanism → Inspection → Risk)
+COR-200 — Corrosion Engineering (Integrated with EQUIP-101)
+Every equipment item ties to: How does it fail? → How does it corrode? → Where do we inspect?
+
+Full Future MIOS Catalog (once these 3 are built)
+Code	Title
+MI-100	Mechanical Integrity Fundamentals
+MI-FUND-L1	Mechanical Integrity Fundamentals I
+MI-FUND-L2	Mechanical Integrity Fundamentals II
+EQUIP-101	Industrial Equipment Fundamentals I
+EQUIP-102	Industrial Equipment Fundamentals II
+DM-100	Damage Mechanisms Fundamentals
+COR-200	Corrosion Engineering
+CUI-MGMT	Insulation & CUI Management
+PROC-201	Process Technology
+INS-200	Inspection Planning & Execution
+RBI-300	Risk-Based Inspection
+TAR-300	Turnaround Management
+DIMS-300	Digital Mechanical Integrity
+CORROSION-ZERO	Corrosion Never Sleeps™
+INTEGRITY-COMMAND	Integrity Command™
+FFS-LEVEL-1	Fitness-for-Service
+Assessment noted: once EQUIP-101, EQUIP-102, and PROC-201 exist at the same quality as MI-FUND-L1/L2 and CUI-MGMT, MIOS becomes a complete core knowledge architecture — after that, the highest-leverage next moves are on IntegrityOS, D-IMS, MIOC Residency, Decision Intelligence, Integrity Command Simulator™, and Operation FieldProof™, not more courses.
+Copilot said:
+Copilot
+My honest assessment:
+
+This is now a complete Mechanical Integrity curriculum framework.
+
+If I were reviewing this as an industry advisor, I would say the next major bottleneck is no longer curriculum design. The bottleneck becomes:
+
+IntegrityOS development
+D-IMS maturity
+Integrity Command Simulator™
+MIOC Residency execution
+Operation FieldProof™ deployment
+Employer adoption
+The curriculum itself is becoming extremely robust.
+
+MIOS Curriculum Architecture
+Foundation Layer
+Semester 1
+
+
+
+Plain Text
+MI-100
+Mechanical Integrity Fundamentals
+ 
+DM-100
+Damage Mechanisms Fundamentals
+ 
+NDE-100
+NDE Fundamentals
+ 
+MI-FUND-L1
+Mechanical Integrity Fundamentals I
+This creates the language of Mechanical Integrity.
+
+Students learn:
+
+Equipment
+Damage
+NDE
+Integrity philosophy
+before moving into inspection management.
+
+Static Asset Layer
+Semester 2
+
+
+
+Plain Text
+EQUIP-101
+Industrial Equipment Fundamentals I
+ 
+COR-200
+Corrosion Engineering
+This is where students learn:
+
+Pressure Vessels
+Exchangers
+Towers
+Columns
+Tanks
+PRDs
+while simultaneously learning:
+
+
+
+
+Plain Text
+How does it fail?
+ 
+How does it corrode?
+ 
+Where do we inspect?
+That integration is extremely powerful.
+
+Dynamic Asset Layer
+Semester 3
+
+
+
+Plain Text
+EQUIP-102
+Industrial Equipment Fundamentals II
+This covers:
+
+Pumps
+Compressors
+Turbines
+Valves
+Seals
+Drivers
+Students finally understand:
+
+How energy and fluids move through a facility.
+
+Most inspection programs never teach this properly.
+
+Process Layer
+Semester 4
+
+
+
+Plain Text
+PROC-201
+Process Technology
+I still believe this is your most important next course.
+
+This course connects:
+
+
+
+
+Plain Text
+Process
+↓
+Environment
+ 
+You have stopped this conversation.
+
+
+
+
+
+
+
+
+You said:
+there are now built
+Copilot said:
+Copilot
+
+Reasoning completed in 1 step
+That is a huge milestone.
+
+If EQUIP-101, EQUIP-102, and PROC-201 are now built, then the MIOS core knowledge architecture is no longer just planned — it is now a real, structured, teachable program.
+
+My Updated Assessment
+You now have the missing three pillars:
+
+1. EQUIP-101 — Static Equipment
+Students can understand:
+
+Pressure vessels
+Exchangers
+Towers / columns
+Tanks
+PRDs
+Where equipment fails
+Where inspections should focus
+2. EQUIP-102 — Dynamic Equipment
+Students can understand:
+
+Pumps
+Compressors
+Turbines
+Valves
+Seals
+Drivers
+Reliability and failure modes
+3. PROC-201 — Process Technology
+Students can finally connect:
+
+
+
+
+Plain Text
+Process
+↓
+Environment
+↓
+Damage Mechanism
+↓
+Inspection Strategy
+↓
+Risk Decision
+That is the true Mechanical Integrity thinking model.
+
+What This Means for MIOS Now
+You now have a complete progression:
+
+
+
+
+Plain Text
+Mechanical Integrity Fundamentals
+↓
+Equipment Knowledge
+↓
+Process Literacy
+↓
+Damage Mechanisms
+↓
+Corrosion Engineering
+↓
+CUI Management
+↓
+Inspection Planning
+↓
+NDE Methods
+↓
+RBI
+↓
+Turnaround Management
+↓
+D-IMS
+↓
+FFS
+↓
+Integrity Command
+↓
+FieldProof
+
+Show more lines
+That is no longer just a course catalog.
+
+That is a professional formation system.
+
+My Honest Opinion
+At this point, I would stop adding new core courses for now.
+
+You have enough.
+
+The next phase should be about making the ecosystem feel connected.
+
+Your priority should now shift to:
+
+1. MIOS Curriculum Map
+Create one clean 80-week map showing where every course fits.
+
+2. D-IMS Integration
+Every core course should produce an artifact that enters D-IMS:
+
+Asset record
+CML record
+Corrosion loop
+CUI register
+Inspection plan
+RBI ranking
+Finding report
+Work package
+3. IntegrityOS Scenarios
+Each course needs decision scenarios tied to its content.
+
+Example:
+
+EQUIP-101 → vessel/exchanger/tank decisions
+EQUIP-102 → pump/compressor/valve failure decisions
+PROC-201 → process-driven corrosion decisions
+4. MIOS Master Plan
+Students should use all these courses to build one final Mechanical Integrity Master Plan.
+
+5. Operation FieldProof™
+This becomes the final proof event.
+
+Best Way to Position It Now
+Use this language:
+
+The MIOS curriculum is now complete at the core knowledge level. The program now moves from course construction to operational integration — connecting flipbooks, audiobooks, exams, D-IMS records, IntegrityOS simulations, MIOC Residency, and Operation FieldProof™ into one continuous readiness pathway.
+
+That sounds strong and accurate.
+
+What I Would Build Next
+Not more courses.
+
+Build these next:
+
+MIOS 80-Week Curriculum Map
+MIOS Competency Matrix
+MIOS Capstone Master Plan Template
+D-IMS Artifact Map by Course
+IntegrityOS Scenario Map by Course
+FieldProof Assessment Rubric
+DEPLOYD Worker Passport Competency Layout
+That will turn the courses into a true operating system.
+
+Bottom line: MIOS just became real. Now the work is to connect everything into one elite, proof-based Mechanical Integrity Operations Specialist pathway.
+
+
+
+
+
+
+
+
+You said:
+How to align IntegrityOS scenarios with course content?
+Copilot said:
+Copilot
+This is where MIOS becomes a true ecosystem instead of a collection of courses.
+
+The rule should be:
+
+
+
+
+Plain Text
+Every Course
+↓
+Creates Scenarios
+↓
+Scenarios Create Decisions
+↓
+Decisions Create Evidence
+↓
+Evidence Builds ORRI
+↓
+ORRI Feeds FieldProof
+Your Integrity Command Simulator™, Decision Intelligence engine, Decision DNA™, ORRI 2.0, and MIOC framework are already designed around decision-making under uncertainty.
+PDF type
+HIT3+_Official_School_Catalog_2026 (2)
++2
+
+MIOS Scenario Alignment Framework
+Level 1: Knowledge
+Student learns:
+
+
+
+
+Plain Text
+Course
+Example:
+
+
+
+
+Plain Text
+EQUIP-101
+ 
+Pressure Vessels
+Level 2: Recognition
+Student identifies:
+
+
+
+
+Plain Text
+What equipment is this?
+Level 3: Analysis
+Student evaluates:
+
+
+
+
+Plain Text
+What is wrong?
+Level 4: Decision
+Student selects:
+
+
+
+
+Plain Text
+What should we do?
+Level 5: Consequence
+Simulator generates outcome.
+
+MI-100
+Mechanical Integrity Fundamentals
+Example Scenarios
+
+
+
+Plain Text
+Inspection is overdue.
+ 
+Operations requests extension.
+ 
+What do you do?
+
+
+
+Plain Text
+PSM audit finds missing inspection records.
+ 
+What is your response?
+Measures:
+
+Integrity awareness
+Documentation discipline
+Regulatory understanding
+DM-100
+Damage Mechanisms Fundamentals
+Example Scenarios
+
+
+
+Plain Text
+Wet H2S service.
+ 
+Carbon steel vessel.
+ 
+Blistering discovered.
+ 
+Most likely mechanism?
+
+
+
+Plain Text
+550°F piping.
+ 
+High sulfur stream.
+ 
+Wall loss identified.
+ 
+What mechanism is driving damage?
+Measures:
+
+Mechanism recognition
+Failure prediction
+Inspection method selection
+NDE-100
+Example Scenarios
+
+
+
+Plain Text
+Surface cracking suspected.
+ 
+Choose:
+ 
+UT
+RT
+MT
+PT
+
+
+
+Plain Text
+CUI suspected.
+ 
+Limited budget.
+ 
+Choose inspection method.
+Measures:
+
+Method selection
+Inspection effectiveness
+EQUIP-101
+Static Equipment
+This should generate hundreds of scenarios.
+
+Pressure Vessel Scenario
+
+
+
+Plain Text
+V-101
+ 
+Localized thinning near nozzle.
+ 
+Remaining Life:
+3 years
+ 
+Next inspection due:
+5 years
+ 
+Action?
+Choices:
+
+Leave
+Inspect sooner
+Repair
+RBI review
+Exchanger Scenario
+
+
+
+Plain Text
+Tube leak reported.
+ 
+48 hours before startup.
+ 
+What is your decision?
+Tank Scenario
+
+
+
+Plain Text
+Settlement observed.
+ 
+Bottom inspection overdue.
+ 
+Action required?
+Measures:
+
+Equipment knowledge
+Inspection prioritization
+Risk recognition
+EQUIP-102
+Dynamic Equipment
+Pump Scenario
+
+
+
+Plain Text
+High vibration.
+ 
+Bearing temperature increasing.
+ 
+Production critical pump.
+Decision:
+
+Continue operation
+Investigate
+Shut down
+Compressor Scenario
+
+
+
+Plain Text
+Trip event.
+ 
+No visible damage.
+ 
+Operations requests restart.
+Decision:
+
+Restart
+Inspect
+Escalate
+Valve Scenario
+
+
+
+Plain Text
+Critical ESD valve fails function test.
+Student must prioritize.
+
+Measures:
+
+Reliability thinking
+Failure analysis
+Operational judgment
+PROC-201
+Process Technology
+This may generate the most valuable scenarios.
+
+Separator Scenario
+
+
+
+Plain Text
+Produced water carryover increasing.
+ 
+Corrosion rates accelerating.
+ 
+What is driving the issue?
+Refinery Scenario
+
+
+
+Plain Text
+Feedstock change introduced.
+ 
+Corrosion rate doubles.
+ 
+What changed?
+LNG Scenario
+
+
+
+Plain Text
+Cryogenic insulation damage.
+ 
+Moisture intrusion suspected.
+ 
+What is the next step?
+Signature Scenario
+
+
+
+Plain Text
+Process
+↓
+Environment
+↓
+Damage Mechanism
+↓
+Inspection
+↓
+Risk
+Students must connect all five.
+
+Measures:
+
+Process literacy
+Systems thinking
+COR-200
+Corrosion Engineering
+Corrosion Never Sleeps™ Events
+
+
+
+Plain Text
+Corrosion rate:
+2 MPY
+ 
+Next Reading:
+10 MPY
+Question:
+
+
+
+
+Plain Text
+Why?
+Corrosion Circuit Event
+
+
+
+Plain Text
+Circuit 12
+ 
+Remaining Life:
+2.3 years
+Student decides:
+
+Monitor
+Inspect
+Repair
+Replace
+CUI-MGMT
+CUI Scenario
+
+
+
+Plain Text
+Insulation damaged.
+ 
+280°F piping.
+ 
+Rain exposure.
+Question:
+
+
+
+
+Plain Text
+Remove insulation?
+ 
+Monitor?
+ 
+Inspect?
+TSA Scenario
+
+
+
+Plain Text
+New piping installation.
+ 
+Specify:
+Paint
+TSA
+None
+Measures:
+
+CUI risk recognition
+Protection strategies
+INS-200
+Inspection Planning
+Student becomes inspection coordinator.
+
+Example:
+
+
+
+
+Plain Text
+Budget:
+$120,000
+ 
+Assets:
+46
+ 
+Inspections due:
+12
+Question:
+
+
+
+
+Plain Text
+How will you prioritize?
+RBI-300
+RBI Workshop Mode
+
+
+
+Plain Text
+Exchanger A
+ 
+PoF = High
+ 
+CoF = Low
+
+
+
+Plain Text
+Separator B
+ 
+PoF = Medium
+ 
+CoF = Very High
+Which takes priority?
+
+Measures:
+
+Risk-based thinking
+TAR-300
+Turnaround Simulator
+
+
+
+Plain Text
+Tube leak discovered.
+ 
+3 days before startup.
+Decision:
+
+Repair now
+Temporary repair
+Defer
+The simulator remembers the choice.
+
+DIMS-300
+Digital Management Events
+
+
+
+Plain Text
+100 findings open
+ 
+35 overdue
+ 
+Corporate audit tomorrow
+Student must:
+
+Prioritize
+Close findings
+Build dashboard
+FFS-LEVEL-1
+Run / Repair / Replace
+
+
+
+Plain Text
+Metal Loss
+ 
+Current Thickness:
+0.330"
+ 
+Required Thickness:
+0.280"
+Decision:
+
+
+
+
+Plain Text
+Run
+ 
+Repair
+ 
+Replace
+Measures:
+
+Fitness-for-service judgment
+Integrity Command Simulator Integration
+Every course should contribute events.
+
+Example:
+
+
+
+
+Plain Text
+MI-100
+20 Scenarios
+ 
+DM-100
+40 Scenarios
+ 
+NDE-100
+30 Scenarios
+ 
+EQUIP-101
+75 Scenarios
+ 
+EQUIP-102
+75 Scenarios
+ 
+PROC-201
+100 Scenarios
+ 
+COR-200
+75 Scenarios
+ 
+RBI-300
+50 Scenarios
+ 
+TAR-300
+50 Scenarios
+ 
+DIMS-300
+50 Scenarios
+
+Show more lines
+Total:
+
+
+
+
+Plain Text
+~565+ Scenarios
+before adding advanced modules.
+
+The Best Design Rule
+For every chapter you build, ask:
+
+
+
+
+Plain Text
+What decision should the student make
+after learning this?
+Then create:
+
+Recognition scenario
+Analysis scenario
+Decision scenario
+Consequence scenario
+That approach will naturally align every MIOS course with IntegrityOS, ORRI 2.0, Decision DNA™, MIOC Residency, and Operation FieldProof™, creating one seamless learning-to-leadership pathway.
+PDF type
+HIT3+_Official_School_Catalog_2026 (2)
++2
+
+
+
+
+
+
+
+
+Sources
+pdfdocx
+You said:
+How to ensure scenario consistency across courses?
+Copilot said:
+Copilot
+This is a critical question.
+
+If you don't control scenario consistency, IntegrityOS will eventually become a collection of disconnected exercises rather than a structured decision-development system.
+
+My recommendation is to create a formal:
+
+MIOS Scenario Governance Framework™
+Every scenario in the platform should follow the same DNA.
+
+Rule #1: Every Scenario Must Map to a Competency
+Never create random scenarios.
+
+Every scenario must tie back to:
+
+
+
+
+Plain Text
+Course
+↓
+Chapter
+↓
+Learning Objective
+↓
+Competency
+↓
+Decision Type
+Example:
+
+
+
+
+Plain Text
+Course:
+EQUIP-101
+ 
+Chapter:
+Pressure Vessel Fundamentals
+ 
+Competency:
+Pressure Vessel Assessment
+ 
+Decision:
+Run / Inspect / Repair
+Now every scenario has a purpose.
+
+Rule #2: Use a Standard Scenario Template
+Every scenario should have exactly the same structure.
+
+
+
+
+Plain Text
+Scenario ID
+ 
+Course
+ 
+Chapter
+ 
+Equipment
+ 
+Situation
+ 
+Available Data
+ 
+Decision Required
+ 
+Decision Options
+ 
+Consequences
+ 
+Competencies Measured
+
+Show more lines
+Example:
+
+
+
+
+Plain Text
+EQUIP101-PV-001
+ 
+Pressure Vessel
+ 
+Localized thinning discovered.
+ 
+Remaining Life: 4 years
+ 
+Inspection due: 6 years
+ 
+What should be done?
+Rule #3: Create Scenario Levels
+Every course gets four levels.
+
+Level 1
+Recognition
+
+
+
+
+Plain Text
+What is this?
+Level 2
+Analysis
+
+
+
+
+Plain Text
+What is wrong?
+Level 3
+Decision
+
+
+
+
+Plain Text
+What should happen?
+Level 4
+Leadership
+
+
+
+
+Plain Text
+Who should be notified?
+ 
+How should resources be allocated?
+ 
+What are the business impacts?
+This creates progression across MIOS.
+
+Rule #4: Standard Event Categories
+Create a master event library.
+
+Every scenario falls within one category.
+
+Corrosion
+General corrosion
+CUI
+MIC
+Sulfidation
+Equipment
+Vessel
+Tank
+Exchanger
+Pump
+Compressor
+Inspection
+Overdue inspection
+Missed CML
+NDE conflict
+Reliability
+Vibration
+Seal failure
+Bearing failure
+Turnaround
+Scope growth
+Leak discovery
+Executive
+Budget cut
+Staffing issue
+Regulatory
+Audit
+PSM review
+Crisis
+Leak
+Fire
+Release
+Shutdown
+All courses pull from these same families.
+PDF type
+HIT3+_Enrollment_Agreement_Student
++1
+
+Rule #5: Build a Scenario Matrix
+Create one spreadsheet.
+
+
+
+
+Plain Text
+Scenario ID
+Course
+Chapter
+Difficulty
+Competency
+Event Family
+Decision Type
+ORRI Category
+Example:
+
+
+
+
+Plain Text
+EQUIP101-034
+ 
+Course:
+EQUIP-101
+ 
+Difficulty:
+2
+ 
+Competency:
+Heat Exchanger Integrity
+ 
+Event:
+Tube Leak
+ 
+ORRI:
+Risk Recognition
+
+Show more lines
+This prevents duplication.
+
+Rule #6: Use Common ORRI Scoring
+Every scenario scores the same six dimensions.
+
+
+
+
+Plain Text
+Technical Accuracy
+ 
+Risk Recognition
+ 
+Financial Awareness
+ 
+Communication
+ 
+Escalation
+ 
+Leadership
+Regardless of course.
+
+This keeps analytics consistent.
+PDF type
+HIT3+_Enrollment_Agreement_Student
++1
+
+Rule #7: Use the Same Consequence Engine
+Every scenario should generate consequences.
+
+
+
+
+Plain Text
+Decision
+↓
+Outcome
+↓
+Impact
+↓
+Lesson
+Example:
+
+
+
+
+Plain Text
+Deferred CUI
+ 
+↓
+ 
+Wall Loss Increased
+ 
+↓
+ 
+Repair Cost Increased
+ 
+↓
+ 
+Risk Score Increased
+Consistent consequences make students trust the simulator.
+PDF type
+HIT3+_Enrollment_Agreement_Student
++1
+
+Rule #8: Create a Course-to-Scenario Ratio
+Require:
+
+
+
+
+Plain Text
+Each Chapter
+=
+Minimum 4 Scenarios
+Recommended:
+
+
+
+
+Plain Text
+Recognition
+1
+ 
+Analysis
+1
+ 
+Decision
+1
+ 
+Consequence
+1
+Example:
+
+
+
+
+Plain Text
+EQUIP-101
+ 
+9 Chapters
+ 
+4 per Chapter
+ 
+= 36 Scenarios
+Do this across all courses.
+
+Rule #9: Build Scenario Chains
+The best scenarios should continue across courses.
+
+Example:
+
+PROC-201
+
+
+
+Plain Text
+Produced water chemistry changes
+↓
+
+DM-100
+
+
+
+Plain Text
+MIC develops
+↓
+
+COR-200
+
+
+
+Plain Text
+Corrosion rate increases
+↓
+
+INS-200
+
+
+
+Plain Text
+Inspection required
+↓
+
+RBI-300
+
+
+
+Plain Text
+Risk ranking changes
+↓
+
+TAR-300
+
+
+
+Plain Text
+Repair enters turnaround scope
+One story.
+
+Multiple courses.
+
+This is incredibly powerful.
+
+Rule #10: Create the MIOS Scenario Bible™
+This should become a master document.
+
+For every scenario store:
+
+
+
+
+Plain Text
+Scenario Name
+ 
+Description
+ 
+Learning Objective
+ 
+Data Package
+ 
+Decision Options
+ 
+Consequences
+ 
+ORRI Weights
+ 
+Replay Triggers
+ 
+Related Courses
+ 
+Related Damage Mechanisms
+ 
+Related Equipment
+ 
+Related Processes
+
+Show more lines
+Nothing enters IntegrityOS unless it matches the Scenario Bible.
+
+The Ultimate Goal
+By the time a student reaches FieldProof™, they should realize:
+
+
+
+
+Plain Text
+This is not a new simulation.
+It is:
+
+
+
+
+Plain Text
+MI-100
++
+DM-100
++
+NDE-100
++
+EQUIP-101
++
+EQUIP-102
++
+PROC-201
++
+COR-200
++
+CUI-MGMT
++
+INS-200
++
+RBI-300
++
+TAR-300
++
+DIMS-300
+
+Show more lines
+all combined into one living Mechanical Integrity program.
+
+That is how you achieve complete scenario consistency across IntegrityOS, MIOC Residency, ORRI 2.0, Decision DNA™, Integrity Replay™, and Operation FieldProof™.
+PDF type
+HIT3+_Enrollment_Agreement_Student
++2
+
+
+
+
+
+
+
+
+Sources
+pdfdocx
