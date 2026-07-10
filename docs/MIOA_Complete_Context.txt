@@ -1,0 +1,695 @@
+HOLDEN UNIVERSITY — SCHOOL OF MECHANICAL INTEGRITY & INDUSTRIAL OPERATIONS (MIOA)
+MASTER CONTEXT DOCUMENT — Complete Agent Handoff Package
+Generated: June 29, 2026  |  Conversation Session: 7a9a6c16-1ae3-4c10-b856-7882c82d3600
+====================================================================================================
+
+SECTION 1: VISION, BRAND & CORE CONCEPTS
+--------------------------------------------------------------------------------
+INSTITUTION:  Holden University — School of Mechanical Integrity & Industrial Operations
+TAGLINE 1:    "Prepared to Protect. Built to Lead."
+TAGLINE 2:    "Learn > Practice > Simulate > Operate > Lead."
+WEBSITE:      holdeninspection-training.com
+BRAND:        Navy #0B1F3A | Gold #C9A84C | Steel #4A6FA5
+
+CORE MISSION:  Train the world's first mechanical integrity operations professionals who are
+               FUNCTIONAL on Day One — not just certified. Every other school asks: can the
+               student pass an exam? MIOA asks: can this graduate walk into a refinery,
+               offshore platform, pipeline, or LNG terminal and contribute immediately?
+
+THE HOLDEN MI MODEL:  Observe > Understand > Inspect > Analyze > Decide > Execute > Protect
+                      (Seven verbs that describe how an MI professional thinks and works)
+
+CREDENTIAL STACK:
+  Foundation Certificate (Years 1-2)
+  Major Graduate Certificate (on completion of a Major)
+  Specialization Badge (overlaid on any Major)
+  FieldProof Commissioning Assessment (practical sign-off)
+  DEPLOYD Worker Passport (employer-facing career credential)
+
+FORMAT: Self-paced online | 8-week terms | 4 cohort start dates per year
+SCALE:  6 Divisions | 2 Colleges | 7 Departments | 200+ modules | 350+ simulation scenarios
+
+SECTION 2: PLATFORM ECOSYSTEM — 8 BRANDS
+--------------------------------------------------------------------------------
+  HIT+                  Enrollment Brand          The front door — name students first encounter; where every journey begins.
+  CertIQ Academy        The Classroom             Where knowledge is built — 22 live courses across API, NDT, CWI and ASNT prep.
+  IntegrityOS           Simulation Platform       Where decisions are practiced — 350 cinematic scenarios across 14 tracks.
+  D-IMS                 Operating System          Where integrity is managed — the operating desk of the entire MIOC.
+  RiskGateIQ            Human Performance         Where professional judgment is developed under realistic pressure.
+  IQ Suite Pro          Professional Development  Where skills are sharpened daily — calculators, code tools, the pro lab.
+  DEPLOYD               Career Brand              Where graduates meet employers — Worker Passport and career profiles.
+  CodeIQ / DefectIQ     Game Engines              Where mastery is gamified — Jeopardy-style code games and UT A-scan training.
+
+SECTION 3: NINE PROGRAMS — COMPLETE COURSE-BY-COURSE DETAIL
+--------------------------------------------------------------------------------
+(Programs 10-18; each has 6-8 courses; 61 courses total across all programs)
+
+
+╔══ PROCESS TECHNOLOGY PROGRAM — SECTION 10 ══╗
+  Subtitle:  Process Technology — Full Curriculum
+  Context:   Process literacy for inspectors and integrity professionals — you cannot inspect what you do not understand.
+  Purpose:   An inspector who does not understand the process cannot understand why equipment degrades, which equipment is critical, or what a finding really means. This program gives every MI professional fluency in unit operations, refinery and petrochemical processes, P&ID interpretation, and Process Safety Management — the context that turns a thickness reading into an integrity decision.
+  Certs:     Aligns with OSHA 1910.119 (PSM) and supports API 510/570 process knowledge requirements.
+  Careers:   Process-aware Inspector · Integrity Engineer · TAR Planner · Operations-Inspection Liaison · Process Safety Coordinator
+
+  COURSES (6):
+  Course 1 | Industrial Process Fundamentals
+    Description: The language of process and how processes fail.
+    Topics: The petroleum & petrochemical value chain | Unit operations overview (separation, reaction, heat transfer) | Process plant layout and battery limits | Process fluids, phases and hazards | Temperature, pressure, flow and level basics | How processes deviate and fail
+
+  Course 2 | Refinery Operations Overview
+    Description: Unit-by-unit tour of a modern refinery.
+    Topics: Crude (CDU) and vacuum (VDU) distillation | Fluid catalytic cracking (FCC) | Hydroprocessing — HDS / HDT / hydrocracking | Catalytic reforming | Alkylation (HF and H2SO4) | Utility systems and steam balance
+
+  Course 3 | P&ID Mastery
+    Description: Reading and interpreting P&IDs to ISA 5.1.
+    Topics: P&ID fundamentals (ISA 5.1) | Line and equipment symbology | Valve symbology and types | Instrument symbology and tag numbering | Control loops and PID logic | Safety systems — SIS, HIPPS, PSV | Inspection and TAR applications
+
+  Course 4 | Process Safety Management
+    Description: The complete OSHA PSM standard.
+    Topics: OSHA 1910.119 structure | Process Safety Information (PSI) | Process Hazard Analysis & HAZOP | Operating procedures and training | The Mechanical Integrity element | Management of Change & PSSR | Incident investigation
+
+  Course 5 | LNG & Cryogenic Processes
+    Description: Liquefaction, storage and regasification — unique cold-service integrity challenges.
+    Topics: Liquefaction process trains | LNG storage (9% Ni steel) | Regasification systems | Cryogenic piping and vessels | Cryogenic inspection challenges | LNG terminal safety
+
+  Course 6 | Offshore Process Systems
+    Description: Production, separation and treatment on offshore platforms and FPSOs.
+    Topics: Offshore production overview | Produced water treatment | Gas treatment (TEG / amine) | Platform process layout | FPSO systems | Offshore environmental challenges
+
+
+╔══ INDUSTRIAL COATINGS PROGRAM — SECTION 11 ══╗
+  Subtitle:  Industrial Coatings Inspector — Full Curriculum
+  Context:   Surface preparation through failure analysis — aligned to AMPP (NACE/SSPC) CIP Levels 1 & 2.
+  Purpose:   Coatings are the first line of defense against corrosion, yet coating failures are among the most common and costly integrity problems. This program builds a complete coating inspector — surface preparation standards, application inspection, system selection, offshore and immersion service, and structured failure analysis.
+  Certs:     Aligned with AMPP CIP Levels 1 & 2, SSPC SP standards, ISO 8501 / ISO 12944, NORSOK M-501 and IMO PSPC.
+  Careers:   Coating Inspector (CIP) · Coating QA/QC Lead · Asset Owner Coatings Specialist · NORSOK / Offshore Coatings Inspector
+
+  COURSES (8):
+  Course 1 | Coatings Inspector Fundamentals
+    Description: Why coatings matter, how they protect, and the inspector's role.
+    Topics: Corrosion and coating protection mechanisms | Coating types overview | The coating system (primer / intermediate / topcoat) | The inspector's role and ethics | Standards overview (AMPP / ISO 12944 / NORSOK) | Safety in coating environments
+
+  Course 2 | Surface Preparation Standards
+    Description: The single most important factor in coating performance.
+    Topics: Why surface prep is critical | SSPC standards (SP1-SP11) | ISO 8501 rust and prep grades | Abrasive blast cleaning | Surface profile measurement | Soluble salt contamination (Bresle test) | Wet abrasive & UHP water jetting
+
+  Course 3 | Coating Application & Inspection
+    Description: Inspecting application in real time — the hold-points that determine durability.
+    Topics: Application methods (spray, brush, roller) | Coating material quality checks | Environmental conditions and dew point | Wet film thickness (WFT) | Dry film thickness — SSPC-PA 2 | Holiday / pinhole detection | Adhesion testing | Documentation — ITPs and NCRs
+
+  Course 4 | Coating Systems & Selection
+    Description: Matching the coating system to the environment.
+    Topics: Epoxy coatings | Polyurethane coatings | Zinc-rich primers | High-temperature coatings | Specialty and thermal spray coatings | System selection (ISO 12944 / NORSOK) | Reading a coating specification
+
+  Course 5 | Offshore & Marine Coatings
+    Description: The most aggressive corrosion environment on earth.
+    Topics: Offshore corrosion zones | NORSOK M-501 | IMO PSPC | Subsea coating systems | Cathodic protection integration | Offshore inspection challenges
+
+  Course 6 | Tank & Vessel Interior Coatings
+    Description: Immersion-service linings and confined-space coating inspection.
+    Topics: API 652 tank linings | Immersion service systems | Tank bottom inspection (MFL awareness) | Confined space coating inspection | Lining application inspection | Lining failure analysis
+
+  Course 7 | Coating Failure Analysis
+    Description: Classifying and investigating coating failures to ASTM standards.
+    Topics: Failure classification (ASTM D610 / D714 / D1654) | Blistering | Delamination and adhesion failure | Edge and weld failures | Cracking and checking | Failure investigation reporting
+
+  Course 8 | AMPP CIP Level 1 & 2 Exam Prep
+    Description: Structured preparation for the AMPP CIP examinations.
+    Topics: CIP examination structure | Level 1 body of knowledge | Level 2 body of knowledge | Practical inspection exercises | Instrument use and calibration | Mock examinations
+
+
+╔══ CRITICAL BOLTING PROGRAM — SECTION 12 ══╗
+  Subtitle:  Critical Bolting & Joint Integrity — Full Curriculum
+  Context:   ASME PCC-1 aligned — the most comprehensive bolting training available.
+  Purpose:   Improper bolted flange joint assembly is the single most common cause of process leaks at turnarounds and startups. This program covers the complete bolted joint system from the physics of the joint to ASME PCC-1 to hydraulic tensioning to a full digital flange management program.
+  Certs:     Built around ASME PCC-1 (2019) including Appendix A personnel qualification; references ASME B16.5/B16.47, ASTM A193/A194 and ASME B107.300.
+  Careers:   Lead Bolting Supervisor · Flange Management Coordinator · TAR Inspection Coordinator · MI Specialist (bolting) · PCC-1 Assembler / Examiner support
+
+  COURSES (6):
+  Course 1 | Bolted Joint Fundamentals
+    Description: The physics, components and failure mechanisms of a bolted pressure-boundary joint.
+    Topics: Why bolted joints fail (leak types, failure modes) | Joint components and bolt materials (A193 B7, A194 2H, A320 L7) | Flange face types (RF, RTJ, FF) | Gasket types and selection | ASME B16.5 flange standards and class ratings | Bolt mechanics and clamping force | Loss of bolt load (relaxation, embedment) | Bolt assessment — reuse vs. replace
+
+  Course 2 | ASME PCC-1 Essentials
+    Description: The complete ASME PCC-1 standard — every guideline, requirement and procedure.
+    Topics: PCC-1 purpose and structure | Joint assembly preparation | Bolt numbering and tightening sequence | The four-pass tightening procedure | Target torque vs. target tension | PCC-1 personnel qualification (Appendix A) | The Joint Assembly Record (JAR) | PCC-1 appendices B-F
+
+  Course 3 | Torque Tightening & Calibration
+    Description: Why the number on the wrench is not the bolt load in the joint.
+    Topics: Torque wrench types | Power tools for bolting | Calibration (ASME B107.300) | The nut factor (K-factor) | Lubrication selection | Torque verification and auditing
+
+  Course 4 | Hydraulic Tensioning
+    Description: The most precise method of achieving target bolt load on critical joints.
+    Topics: Tensioning vs. torquing | Tensioner equipment types | Multi-pass tensioning procedure | Elongation measurement (ultrasonic) | Offshore and subsea tensioning | Tensioning documentation
+
+  Course 5 | Flange Management Systems
+    Description: The digital infrastructure of a world-class bolting program.
+    Topics: The business case for a flange register | Flange register development | Integration with D-IMS | Inspection and condition records | Turnaround bolt-up planning | Leak management and follow-up
+
+  Course 6 | Turnaround Bolting Operations
+    Description: Managing the bolting scope of a major turnaround.
+    Topics: TAR bolt-up overview | Pre-TAR planning and material pre-staging | Disassembly inspection | Flange face repair and acceptance | Bolt-up sequencing and status tracking | Hot bolting and hot tapping | Pre-startup leak testing | Close-out documentation (JAR / PSSR)
+
+
+╔══ DRONE & UAS INSPECTION PROGRAM — SECTION 13 ══╗
+  Subtitle:  Drone & UAS Inspection — Full Curriculum
+  Context:   FAA Part 107 preparation joined to industrial inspection application — the fastest-growing specialty.
+  Purpose:   Drone technology is transforming access to hard-to-reach assets — flare stacks, columns, offshore structures, cooling towers — turning weeks of scaffolding into hours of flight. This program uniquely bridges two worlds: FAA Part 107 regulatory competency and genuine industrial inspection discipline, including thermal imaging and photogrammetric 3D mapping.
+  Certs:     Prepares candidates for the FAA Part 107 Remote Pilot Certificate; aligns drone findings to API visual inspection report standards and ATEX/IECEx zone requirements.
+  Careers:   Industrial Drone Inspector · UAS Inspection Program Lead · Thermography Drone Specialist · Photogrammetry / 3D Mapping Technician
+
+  COURSES (7):
+  Course 1 | FAA Part 107 Certification Prep
+    Description: Complete preparation for the mandatory commercial drone operating certificate.
+    Topics: Part 107 overview and recurrency | UAS regulations and operational limits | Airspace classification and LAANC | Weather for drone operations | Radio communications | Emergency procedures | UAS loading and performance | Full 60-question practice exam
+
+  Course 2 | Drone Inspection Fundamentals
+    Description: Planning, executing and documenting a safe industrial drone inspection.
+    Topics: Equipment selection (incl. ATEX-rated drones) | Pre-flight planning and authorization | Risk assessment in operating plants | Inspection flight execution and patterns | Image quality standards (GSD) | The drone observation log
+
+  Course 3 | Visual & Optical Inspection by Drone
+    Description: The visual inspection discipline applied to drone-captured imagery.
+    Topics: External corrosion assessment | Structural assessment | Flare stack and tall column inspection | Cooling tower inspection | Tank roof and shell inspection | Finding classification and D-IMS integration
+
+  Course 4 | Thermal Imaging by Drone
+    Description: Infrared thermography combined with drone operations.
+    Topics: IR thermography principles and emissivity | Refractory inspection by thermography | Insulation failure / CUI detection | Electrical hotspot detection | Solar panel inspection | Thermal report writing
+
+  Course 5 | Photogrammetry & 3D Mapping
+    Description: Turning drone imagery into accurate 3D models and measurements.
+    Topics: Photogrammetry principles (SfM, GCPs) | Mission planning (DroneDeploy / Pix4D) | Processing — point clouds and orthomosaics | Industrial applications (volume, as-built) | LiDAR drone scanning | Deliverable standards and accuracy
+
+  Course 6 | Offshore & Restricted Area Operations
+    Description: The most complex technical and regulatory drone environments.
+    Topics: ATEX / IECEx zone ratings | Ex-rated (Zone 2) drones | Offshore platform operations | BVLOS operations | Night operations | Permit-to-fly systems
+
+  Course 7 | Drone Inspection Report Writing
+    Description: Delivering an inspection that satisfies an API integrity program.
+    Topics: Report requirements for engineers and regulators | Image annotation standards | Finding severity classification | GPS and orientation referencing | D-IMS integration | The complete deliverable package
+
+
+╔══ INDUSTRIAL MAINTENANCE PROGRAM — SECTION 14 ══╗
+  Subtitle:  Industrial Maintenance — Full Curriculum
+  Context:   Mechanical, rotating and static equipment through predictive maintenance and reliability engineering.
+  Purpose:   Maintenance and inspection are two halves of mechanical integrity. This program builds the multi-discipline maintenance technician and reliability professional — covering rotating equipment, piping and static equipment maintenance, predictive technologies, turnaround execution and Reliability-Centered Maintenance.
+  Certs:     Aligns with API 610/682 (rotating), ASME PCC-1 (flanged joints), ISO 10816/1940 (vibration/balancing) and RCM / FMEA reliability methodology.
+  Careers:   Industrial Maintenance Technician · Rotating Equipment Specialist · Reliability Engineer · PdM Program Lead · TAR Maintenance Coordinator
+
+  COURSES (8):
+  Course 1 | Industrial Maintenance Fundamentals
+    Description: Strategies, systems and safety that underpin all maintenance work.
+    Topics: Maintenance strategies (reactive to predictive) | CMMS systems | Lockout / tagout (LOTO) | Permit-to-work | Industrial fasteners | Gaskets and sealing | Planning and scheduling | Maintenance safety
+
+  Course 2 | Rotating Equipment Fundamentals
+    Description: Pumps, compressors, turbines and the mechanics of keeping them running.
+    Topics: Centrifugal pumps (NPSH, cavitation) | Positive displacement pumps | Centrifugal compressors (surge) | Reciprocating compressors | Steam turbines | Mechanical seals (API plans) | Shaft alignment | Balancing (ISO 1940)
+
+  Course 3 | Piping Systems Maintenance
+    Description: Keeping the pressure-boundary piping system reliable and leak-free.
+    Topics: Pipe supports | Expansion joints and bellows | Steam traps | Control valve maintenance | Deadlegs and small-bore connections | Piping insulation and CUI | Flanged joint assembly (PCC-1) | Temporary repairs
+
+  Course 4 | Static Equipment Maintenance
+    Description: Vessels, exchangers, heaters and tanks — opening, inspecting, closing.
+    Topics: Vessel entry | Vessel internal inspection | Heat exchanger maintenance | Air-fin cooler maintenance | Fired heater maintenance | Storage tank maintenance | Close-out | PSSR
+
+  Course 5 | Predictive Maintenance Technologies
+    Description: Condition monitoring — catching failures before they happen.
+    Topics: Vibration analysis (ISO 10816) | Ultrasonic for maintenance | Infrared thermography | Motor current signature analysis | Oil analysis | PdM program management
+
+  Course 6 | Maintenance During Turnarounds
+    Description: Executing the maintenance scope inside a turnaround window.
+    Topics: TAR scope development | Critical path for maintenance | Equipment opening sequences | Documentation | Contractor coordination | TAR maintenance safety
+
+  Course 7 | Industrial Safety for Maintenance
+    Description: The OSHA framework that governs every maintenance task.
+    Topics: OSHA 1910 standards | Confined space entry | Working at height | Hot work safety | Chemical hazard awareness | Incident investigation
+
+  Course 8 | Maintenance Reliability Engineering
+    Description: Engineering reliability into the asset base.
+    Topics: RCM fundamentals | FMEA for maintenance | Failure mode library | Spare parts management | Maintenance KPIs (MTBF, MTTR, OEE) | Continuous improvement
+
+
+╔══ ELECTRICAL SAFETY PROGRAM — SECTION 15 ══╗
+  Subtitle:  Electrical Safety — Full Curriculum
+  Context:   NFPA 70E and arc flash through hazardous area classification and electrical inspection.
+  Purpose:   Mechanical integrity professionals work alongside energized electrical systems every day, and electrical hazards are among the most lethal in industry. This program builds genuine electrical safety competency — NFPA 70E and arc flash, NEC fundamentals, hazardous-area classification (Class/Division and ATEX/IECEx Zone), and electrical inspection.
+  Certs:     Aligns with NFPA 70E, the NEC (NFPA 70), NEC Articles 500-516, ATEX/IECEx and IEC 60079-17, and NETA testing references.
+  Careers:   Electrical Safety Specialist · Hazardous Area / Ex Inspector · Electrical Integrity Coordinator · Thermographic Inspection Technician
+
+  COURSES (6):
+  Course 1 | Electrical Safety Awareness
+    Description: The foundation every plant professional needs to work safely near electricity.
+    Topics: AC/DC fundamentals | Electrical shock hazards | Arc flash physics | Basic electrical PPE | Energized work permit | LOTO for electrical | Inspector interaction with electrical systems
+
+  Course 2 | NFPA 70E — Arc Flash & Safety
+    Description: The complete electrical safe-work-practice standard.
+    Topics: NFPA 70E structure | Arc flash hazard analysis | PPE categories | Approach boundaries | Electrical safety program | Energized work justification | Maintenance and testing
+
+  Course 3 | NEC Fundamentals for Inspectors
+    Description: Reading and recognizing National Electrical Code compliance.
+    Topics: NEC organization | Wiring methods | Overcurrent protection | Grounding and bonding | Motor circuits (Article 430) | Transformer installation (Article 450) | NEC inspection red flags
+
+  Course 4 | Hazardous Area Electrical Classification
+    Description: The most safety-critical electrical knowledge in process industries.
+    Topics: NEC Class / Division (Articles 500-516) | ATEX / IECEx Zone system | Explosion protection methods (Ex d / e / ia) | Area classification drawings | Ex equipment inspection (IEC 60079-17) | Hot work in classified areas | Classification changes (MoC)
+
+  Course 5 | Industrial Electrical Systems
+    Description: The distribution and control systems that power the plant.
+    Topics: Power distribution and one-lines | Medium-voltage switchgear | Motor control centers | Variable frequency drives | UPS systems | Emergency diesel generators
+
+  Course 6 | Electrical Inspection & Documentation
+    Description: Inspecting electrical assets and documenting findings to standard.
+    Topics: Visual inspection | Thermographic inspection (NETA) | High-resistance connection ID | Testing equipment (Megger) | Report writing | NEC compliance documentation
+
+
+╔══ INSTRUMENTATION & CONTROLS PROGRAM — SECTION 16 ══╗
+  Subtitle:  Instrumentation & Controls — Full Curriculum
+  Context:   Loop calibration and control valves through Safety Instrumented Systems and IEC 61511.
+  Purpose:   Instrumentation is the nervous system of the plant, and Safety Instrumented Systems are the last line of defense against catastrophic events. This high-value specialty builds competency in measurement, process control, loop calibration, control valve maintenance and SIS/IEC 61511.
+  Certs:     Aligns with ISA 5.1, IEC 61511 (SIS / SIL), FCI 70-2 (valve seat leakage) and HART / 4-20 mA instrumentation standards.
+  Careers:   I&C Technician · Calibration Specialist · Control Valve Specialist · SIS / Functional Safety Technician
+
+  COURSES (6):
+  Course 1 | Instrumentation Fundamentals
+    Description: How the plant measures pressure, temperature, flow and level.
+    Topics: Measurement variables | Pressure measurement | Temperature measurement (TC, RTD) | Flow measurement (Coriolis, mag, orifice) | Level measurement (radar) | 4-20 mA and HART | ISA 5.1 symbology
+
+  Course 2 | Process Control Fundamentals
+    Description: How measurements become control action.
+    Topics: Control loop components | PID control | DCS / PLC architecture | HMI and SCADA | Advanced control (cascade, ratio, feedforward) | Loop troubleshooting
+
+  Course 3 | Loop Calibration & Testing
+    Description: Verifying that the instrument reads true — end to end.
+    Topics: Calibration standards | Pressure calibration (dead weight) | Temperature calibration | Flow meter verification | HART communicators | End-to-end loop testing
+
+  Course 4 | Control Valve Inspection & Maintenance
+    Description: The final control element — where control meets the process.
+    Topics: Control valve types | Actuator types and fail-safe action | Positioners | Valve packing (EPA fugitive emissions) | Seat leakage testing (FCI 70-2) | Valve body inspection | Documentation
+
+  Course 5 | Safety Instrumented Systems (SIS)
+    Description: The instrumented last line of defense — and the standard that governs it.
+    Topics: SIS vs. BPCS | IEC 61511 overview | Safety Integrity Level (SIL) | HIPPS | SIS proof testing | Inspection of SIS components | SIS management of change
+
+  Course 6 | I&C for Inspectors & Operators
+    Description: What every inspector and operator must know about instrumentation.
+    Topics: Reading instruments during inspection | Instruments in bypass | Documenting I&C findings | PSM interface | Alarm management | Integration exercise
+
+
+╔══ WELDING TECHNOLOGY PROGRAM — SECTION 17 ══╗
+  Subtitle:  Welding Technology — Full Curriculum
+  Context:   AWS D1.1 / API 1104 / ASME IX aligned — for working welders and inspection professionals alike.
+  Purpose:   Welding is where the pressure boundary is made and repaired, and weld quality is a direct integrity concern. This program covers welding processes and metallurgy, the governing codes, WPS/PQR development, welder qualification, PWHT, weld NDE and failure analysis.
+  Certs:     Built around AWS D1.1, API 1104, ASME Section IX and ASME B31.3; supports CWI knowledge requirements.
+  Careers:   Welding Inspector (CWI track) · Welding Engineer support · WPS/PQR Coordinator · Weld Quality Lead · Failure Analysis Technician
+
+  COURSES (8):
+  Course 1 | Welding Processes & Metallurgy
+    Description: How welds are made and what happens to the metal when you make them.
+    Topics: SMAW, GMAW, FCAW, GTAW, SAW | Arc physics and shielding | Weld metallurgy and microstructure | The heat-affected zone (HAZ) | Preheat and interpass control | Hydrogen cracking | Distortion and residual stress
+
+  Course 2 | Welding Codes & Standards
+    Description: The codes that govern fabrication and repair — and how they interact.
+    Topics: AWS D1.1 (structural) | API 1104 (pipelines) | ASME Section IX | ASME B31.3 (process piping) | Code applicability and selection | Acceptance criteria
+
+  Course 3 | WPS / PQR Development
+    Description: Building and qualifying welding procedures that hold up to code.
+    Topics: Essential vs. non-essential variables | Procedure qualification testing | Mechanical testing | Building a WPS library | PQR documentation | Supporting the WPS
+
+  Course 4 | Welder Qualification
+    Description: Qualifying and tracking the people who do the welding.
+    Topics: ASME IX qualification | D1.1 and API 1104 qualification | Continuity rules | Performance test positions | Falsification prevention | Records management
+
+  Course 5 | Post-Weld Heat Treatment
+    Description: Relieving stress and restoring properties — done right, verified.
+    Topics: PWHT purposes | Code requirements | Thermocouple placement | Heating and cooling rates | Hardness verification | Local vs. furnace PWHT
+
+  Course 6 | Weld Discontinuities & NDE
+    Description: Finding and judging weld flaws with the right method.
+    Topics: Porosity, slag, LOF / LOP | Cracks | RT vs. UT method selection | MT / PT applications | Weld defect acceptance criteria | Documentation
+
+  Course 7 | Welding Failure Analysis
+    Description: Why welds fail in service — and how to prevent it.
+    Topics: Stress corrosion cracking | Hydrogen cracking | Fatigue | Dissimilar metal welds | In-service weld repair | Failure case studies
+
+  Course 8 | Advanced Welding Technology
+    Description: The specialized and automated welding the modern industry depends on.
+    Topics: Narrow gap welding | Orbital welding | Weld overlay and cladding | Hot tapping | High-alloy and reactive metals | Automation
+
+
+╔══ ENGINEERING SUPPORT PROGRAM — SECTION 18 ══╗
+  Subtitle:  Engineering Support — Full Curriculum
+  Context:   API 579 Fitness-for-Service, quantitative RBI, remaining life, materials and corrosion engineering.
+  Purpose:   The apex technical program — API 579 Fitness-for-Service, quantitative Risk-Based Inspection to API 581, remaining life calculations, materials engineering and corrosion engineering: the analytical core of a mechanical integrity organization.
+  Certs:     Built around API 579-1 / ASME FFS-1, API 580/581 (RBI), API 571 (damage mechanisms) and ASME pressure-equipment codes.
+  Careers:   Fitness-for-Service Engineer · RBI Analyst / Facilitator · Materials & Corrosion Engineer · Asset Integrity Manager
+
+  COURSES (6):
+  Course 1 | Fitness-for-Service (API 579)
+    Description: Engineering assessment of equipment with known flaws.
+    Topics: FFS overview and the three-level approach | API 579 / ASME FFS-1 structure (13 parts) | General metal loss (RSF) | Local metal loss (Folias factor) | Surface crack-like flaws (LEFM) | Pitting corrosion assessment | FFS documentation
+
+  Course 2 | Advanced Risk-Based Inspection (API 581)
+    Description: Quantitative RBI — putting numbers on probability and consequence of failure.
+    Topics: RBI framework (PoF x CoF) | API 581 quantitative methodology | Consequence modeling (VCE, BLEVE) | Damage factor worked examples | RBI inspection planning | RBI facilitation | Documentation and reporting
+
+  Course 3 | Remaining Life Calculations
+    Description: How long can it safely run — corrosion, creep and fatigue life.
+    Topics: Corrosion rate determination | Remaining life from corrosion rate | Creep life fraction (Larson-Miller) | Fatigue life (Miner's rule) | Confidence intervals | Retirement criteria | Documentation
+
+  Course 4 | Materials Engineering
+    Description: The metallurgy behind every integrity decision.
+    Topics: Steel microstructure | Low-alloy steels (Cr-Mo) | Austenitic stainless (sensitization) | Duplex and super duplex (PREN, ferrite number) | Nickel alloys and CRAs | Mill Test Reports | Positive Material Identification (PMI)
+
+  Course 5 | Corrosion Engineering
+    Description: Understanding and managing the mechanisms that consume the asset.
+    Topics: Corrosion cell fundamentals | Galvanic corrosion | Crevice corrosion | Pitting corrosion | MIC in depth (SRB) | Corrosion inhibitor programs | Cathodic protection | Corrosion management program
+
+  Course 6 | Engineering Report Writing
+    Description: Communicating engineering conclusions with rigor and integrity.
+    Topics: The FFS assessment report | The RBI facilitation report | Root cause failure analysis report | Inspection report to API standards | Technical communication principles | Professional integrity in reports
+
+SECTION 4: DAMAGE MECHANISMS LIBRARY — 32 MECHANISMS (API 571)
+--------------------------------------------------------------------------------
+Coverage: Every API 571 mechanism taught in Division 5 — Damage Mechanisms Academy
+
+   1. General / Localized Corrosion
+      Uniform or localized metal loss from electrochemical attack — the baseline thinning mechanism tracked at every CML.
+   2. Pitting Corrosion
+      Highly localized deep pits, often under deposits or from chlorides — dangerous because volume loss is small but penetration is fast.
+   3. Crevice Corrosion
+      Accelerated attack in shielded gaps (gaskets, deposits, threads) where stagnant electrolyte concentrates.
+   4. Galvanic Corrosion
+      Accelerated corrosion of the less-noble metal where dissimilar metals are electrically coupled in an electrolyte.
+   5. MIC (Microbial)
+      Microbially influenced corrosion — SRB and other organisms drive aggressive, often localized pitting under biofilms.
+   6. CUI — Corrosion Under Insulation
+      Hidden external corrosion beneath insulation in the 10-175 deg C range; one of the most costly and under-detected mechanisms.
+   7. Erosion / Erosion-Corrosion
+      Mechanical removal of metal (and protective films) by high-velocity or particle-laden flow, often at elbows and reducers.
+   8. Flow-Accelerated Corrosion (FAC)
+      Dissolution of the protective oxide layer in wet steam / condensate systems — a major power and utility piping risk.
+   9. Naphthenic Acid Corrosion (NAC)
+      High-temperature corrosion in crude units driven by naphthenic acids (TAN) and velocity.
+  10. Sulfidation
+      High-temperature corrosion by sulfur compounds in hydrocarbon streams; governed by the Modified McConomy curves.
+  11. CO2 Corrosion (Sweet)
+      Carbonic-acid attack in wet CO2 systems — a primary mechanism in production and gas gathering.
+  12. Amine Corrosion
+      Corrosion in amine treating units from acid gas loading and amine degradation products.
+  13. Caustic Corrosion / Gouging
+      Localized attack and deposits where caustic concentrates, often under heat flux.
+  14. Wet H2S Damage
+      Family of hydrogen-charging mechanisms in wet H2S service (blistering, HIC, SOHIC, SSC).
+  15. Hydrogen Induced Cracking (HIC)
+      Internal stepwise cracking from hydrogen atoms accumulating at inclusions in wet H2S service.
+  16. SOHIC
+      Stress-oriented HIC — stacked cracking aligned with stress, near welds in wet H2S service.
+  17. Sulfide Stress Cracking (SSC)
+      Brittle cracking of high-hardness steels in wet H2S — controlled by NACE MR0175 / ISO 15156.
+  18. Hydrogen Embrittlement
+      Loss of ductility and cracking from absorbed atomic hydrogen, often from welding or cathodic charging.
+  19. HTHA (High-Temp Hydrogen Attack)
+      Decarburization and fissuring of steel in high-temperature, high-pressure hydrogen — governed by the Nelson curves (API 941).
+  20. Chloride SCC
+      Cracking of austenitic stainless steels under tensile stress in chloride + temperature environments.
+  21. Caustic SCC (Embrittlement)
+      Stress corrosion cracking of carbon steel in concentrated caustic above threshold temperatures.
+  22. Amine SCC
+      Stress corrosion cracking in amine service, typically requiring PWHT for prevention.
+  23. Polythionic Acid SCC (PASCC)
+      Cracking of sensitized stainless during shutdowns when sulfides react with air and moisture (NACE SP0170).
+  24. Creep / Stress Rupture
+      Time-dependent deformation and rupture of metals under load at high temperature (fired heater tubes, reformers).
+  25. Thermal Fatigue
+      Cracking from cyclic thermal stresses — temperature swings, injection points, mixing tees.
+  26. Mechanical Fatigue / Vibration
+      Crack initiation and growth from cyclic mechanical loading and flow-induced vibration.
+  27. Graphitization
+      Long-term decomposition of carbides to graphite in carbon / C-1/2Mo steels at temperature, reducing strength.
+  28. Temper Embrittlement
+      Loss of toughness in Cr-Mo steels held in the 343-593 deg C range over time.
+  29. 885 deg F (475 deg C) Embrittlement
+      Loss of toughness in ferritic / duplex stainless after exposure near 400-540 deg C.
+  30. Sigma Phase Embrittlement
+      Brittle intermetallic phase forming in stainless / duplex steels at 565-980 deg C, reducing toughness.
+  31. Brittle Fracture
+      Sudden fracture below the ductile-to-brittle transition temperature, often at startup / hydrotest.
+  32. Refractory Degradation
+      Cracking, spalling and loss of fired-equipment refractory leading to hot spots and shell overheating.
+
+SECTION 5: CODES & STANDARDS CATALOG
+--------------------------------------------------------------------------------
+
+  [API — Inspection Codes]
+    API 510               Pressure Vessel Inspection Code — in-service inspection, rerating, repair and alteration.
+    API 570               Piping Inspection Code — in-service inspection, repair and rerating of process piping.
+    API 653               Tank Inspection, Repair, Alteration & Reconstruction — aboveground storage tanks.
+    API 580 / 581         Risk-Based Inspection — qualitative framework (580) and quantitative methodology (581).
+    API 571               Damage Mechanisms Affecting Fixed Equipment in the Refining Industry.
+    API 577               Welding Inspection and Metallurgy.
+    API 579-1             Fitness-for-Service (jointly ASME FFS-1).
+    API 936 / 941         Refractory installation & inspection (936); steels for hydrogen service / Nelson curves (941).
+    API 1104 / 1169       Pipeline welding (1104) and pipeline construction inspection (1169).
+
+  [ASME — Construction & Boiler / Pressure Vessel]
+    BPVC Section I        Rules for construction of power boilers.
+    BPVC Section V        Nondestructive Examination methods and requirements.
+    BPVC Section VIII     Pressure vessels — Division 1 and Division 2.
+    BPVC Section IX       Welding, brazing and fusing qualifications.
+    B31.1 / B31.3         Power piping (B31.1) and process piping (B31.3).
+    PCC-1                 Guidelines for pressure-boundary bolted flange joint assembly.
+    B16.5 / B16.47        Pipe flanges and flanged fittings — dimensions and ratings.
+
+  [Welding / Coatings / Corrosion]
+    AWS D1.1              Structural welding code — steel.
+    AMPP / NACE-SSPC      Coating Inspector Program (CIP), SSPC SP surface-prep, NACE corrosion standards.
+    NACE MR0175 / ISO 15156Materials for H2S-containing environments in oil & gas production.
+    NORSOK M-501 / IMO PSPCOffshore surface treatment (M-501) and protective coating of ballast tanks (PSPC).
+    ISO 8501 / ISO 12944  Surface preparation grades and corrosion protection by paint systems.
+
+  [Safety / Electrical / Instrumentation]
+    OSHA 1910.119         Process Safety Management of Highly Hazardous Chemicals (PSM).
+    NFPA 70E / NFPA 70 (NEC)Electrical safety in the workplace and the National Electrical Code.
+    IEC 61511             Functional safety — Safety Instrumented Systems for the process industry.
+    IEC 60079 / ATEX      Explosive atmospheres — equipment and inspection (Ex).
+    ASNT SNT-TC-1A        Personnel qualification and certification in nondestructive testing.
+
+SECTION 6: NDE METHODS DEEP-DIVE — 15 METHODS (Division 4)
+--------------------------------------------------------------------------------
+   1. VT — Visual Testing [Direct & remote]
+      The foundation of all inspection — surface condition, corrosion, mechanical damage, weld profile. Backed by borescopes and drones.
+   2. PT — Penetrant Testing [Surface-breaking]
+      Liquid dye reveals surface-breaking flaws on non-porous materials — cracks, porosity, laps.
+   3. MT — Magnetic Particle [Surface / near-surface]
+      Magnetic flux leakage reveals surface and slightly subsurface flaws in ferromagnetic materials.
+   4. UT — Ultrasonic (Thickness) [Volumetric]
+      Pulse-echo thickness measurement at CMLs — the workhorse of corrosion monitoring and remaining-life data.
+   5. UT — Shear Wave / Flaw [Volumetric]
+      Angle-beam detection and sizing of weld flaws and cracks through the wall thickness.
+   6. PAUT — Phased Array UT [Advanced volumetric]
+      Electronically steered multi-element imaging — fast, high-resolution weld and corrosion mapping.
+   7. TOFD — Time of Flight Diffraction [Advanced volumetric]
+      Diffraction-based crack sizing with high accuracy, often paired with PAUT for weld inspection.
+   8. RT — Radiographic Testing [Volumetric]
+      X-ray / gamma imaging of welds and components for internal discontinuities; includes digital RT.
+   9. ET — Eddy Current / ECT [Surface & tubing]
+      Electromagnetic detection of surface cracks and tube-wall flaws in heat exchangers and condensers.
+  10. Guided Wave (GWT / LRUT) [Screening]
+      Long-range screening of pipe runs from a single location to flag corrosion for follow-up.
+  11. MFL — Magnetic Flux Leakage [Floor / tank]
+      Rapid screening of tank floors and tubes for corrosion-driven metal loss.
+  12. LT — Leak Testing [Integrity]
+      Bubble, pressure-change and tracer-gas methods to confirm pressure-boundary tightness.
+  13. IRT — Infrared Thermography [Condition]
+      Thermal imaging for refractory hot spots, CUI indicators and electrical connections.
+  14. PMI — Positive Material ID [Material]
+      XRF / OES verification of alloy composition — preventing material mix-ups in critical service.
+  15. Hardness Testing [Material]
+      Field hardness to verify PWHT effectiveness and screen for in-service hardening / embrittlement.
+
+SECTION 7: TURNAROUND COLLEGE — 8 COURSES (Section 19)
+--------------------------------------------------------------------------------
+The single highest-revenue corporate product — trains an entire turnaround team to one
+synchronized standard. Pre-TAR package sold to operators for $12,500-$22,000 per cohort.
+
+  TAR-101 | Turnaround Fundamentals & Lifecycle
+    Description: The complete turnaround lifecycle — and why most overruns are decided long before the unit comes down.
+    Topics: What a turnaround is and why it matters | The TAR lifecycle phases | Cost and schedule drivers | TAR organization and roles | Premise and steering team | Key performance metrics
+
+  TAR-102 | Scope Development & Challenge
+    Description: Building the right scope — and ruthlessly challenging the wrong scope.
+    Topics: Scope sources (inspection, RBI, operations) | Worklist development | Scope challenge process | Freeze date discipline | Growth and discovery work management | Scope risk ranking
+
+  TAR-103 | Planning & Work Package Development
+    Description: Turning scope into executable, resource-loaded work packages.
+    Topics: Job planning fundamentals | Work package construction | Resource and material planning | Long-lead item management | Estimating and norms | Constructability reviews
+
+  TAR-104 | Scheduling & Critical Path
+    Description: Building, leveling and managing the integrated turnaround schedule.
+    Topics: CPM scheduling fundamentals | Critical path identification | Resource leveling | Schedule integration (multi-discipline) | Progress measurement | Schedule recovery
+
+  TAR-105 | Contractor & Resource Management
+    Description: Mobilizing and managing the contract workforce that executes the event.
+    Topics: Contracting strategies | Contractor mobilization | Productivity management | Field supervision | Labor and resource tracking | Cost control during execution
+
+  TAR-106 | Safety & SIMOPS
+    Description: Managing safety and simultaneous operations during the highest-risk window.
+    Topics: TAR safety planning | Permit-to-work systems | Simultaneous operations (SIMOPS) | Confined space and hot work control | Energy isolation at scale | Emergency response
+
+  TAR-107 | Execution, Inspection & Discovery Work
+    Description: Running the event — and absorbing the work you only find once it's open.
+    Topics: Daily execution management | Inspection interface and hold points | Discovery / emergent work process | Decision-making under time pressure | Field change management | Documentation during execution
+
+  TAR-108 | Mechanical Completion & Startup
+    Description: Closing out the event safely and bringing the unit back online.
+    Topics: Mechanical completion process | Punch list management | Pre-Startup Safety Review (PSSR) | Reinstatement and leak testing | Startup sequencing | Post-TAR review and lessons learned
+
+SECTION 8: SEVEN INDUSTRY SPECIALIZATIONS (Section 20)
+--------------------------------------------------------------------------------
+Each Specialization overlays any Major, adds industry-specific competency, and issues
+a named DEPLOYD badge — the tracks that command the highest day-rates in the sector.
+
+  1. Offshore & Subsea — Badge: [Offshore Integrity Inspector]
+     Target industries: Fixed platforms, FPSOs, subsea production systems, offshore wind
+     Courses: Offshore structures & integrity management | Subsea systems inspection | Splash-zone & topsides corrosion | Restricted-area & rope-access interface | Offshore regulatory regime
+     Regulatory alignment: API RP 2A / 2SIM, NORSOK, offshore safety case
+
+  2. LNG & Cryogenic — Badge: [LNG Integrity Inspector]
+     Target industries: LNG liquefaction & regas terminals, cryogenic storage, cold-box facilities
+     Courses: Cryogenic materials (9% Ni, austenitics) | Cold-service inspection challenges | LNG storage tank integrity | Brittle fracture & low-temp toughness | LNG terminal safety
+     Regulatory alignment: API 625, EN 14620, NFPA 59A
+
+  3. Aviation & Aerospace NDE — Badge: [Aerospace NDE Specialist]
+     Target industries: Airframe & engine MRO, aerospace manufacturing — the highest-differentiation track
+     Courses: Aerospace NDE fundamentals | Airframe inspection methods | Engine & component NDE | Composite inspection | Aerospace quality systems (NAS 410)
+     Regulatory alignment: NAS 410, FAA / EASA, ASTM aerospace standards
+
+  4. Pipeline & Midstream — Badge: [Pipeline Integrity Inspector]
+     Target industries: Transmission & gathering pipelines, midstream terminals, pump / compressor stations
+     Courses: Pipeline integrity management | In-line inspection (ILI) interpretation | External corrosion & CP | In-service repair methods | Pipeline regulatory framework
+     Regulatory alignment: API 1160 / 1169, ASME B31.4 / B31.8, 49 CFR 192 / 195
+
+  5. Power Generation — Badge: [Power Generation Inspector]
+     Target industries: Conventional & combined-cycle power, HRSGs, boilers, high-temperature service
+     Courses: Boiler & HRSG inspection | High-temperature & creep damage | Flow-accelerated corrosion (FAC) | Turbine & rotating component awareness | Power plant codes
+     Regulatory alignment: ASME Section I, NBIC, B31.1
+
+  6. Marine & Shipbuilding — Badge: [Marine Inspector]
+     Target industries: Commercial shipping, shipyards, class societies, marine terminals
+     Courses: Marine inspection fundamentals | Hull & structural survey | Marine coatings & PSPC | Ballast water system inspection | Class survey awareness (ABS / DNV / LR)
+     Regulatory alignment: SOLAS, MARPOL, ISPS, IACS
+
+  7. Petrochemical & Chemical — Badge: [Petrochemical Inspector]
+     Target industries: Ethylene / aromatics complexes, specialty chemicals, polymers, fertilizer, chlor-alkali
+     Courses: Petrochemical process awareness | Specialty alloys for chemical service | CUI management in chemical plants | HAZOP for inspectors | Maintenance-inspection integration
+     Regulatory alignment: OSHA PSM, EPA RMP, CCPS guidelines
+
+====================================================================================================
+SECTION 9: FULL CONVERSATION TRANSCRIPT
+All 180 message turns from the session that produced this project.
+====================================================================================================
+
+[USER TURN #0]
+Holden University School of Mechanical Integrity and Industrial Operations.   I want to build the worlds first Mechanical Integrity School. I have alot of other programs built already ...   review all of these.. 
+
+
+
+
+
+
+
+https://chatgpt.com/s/t_6a41f594a7b08191b2d4d85af49825f2
+
+https://copilot.microsoft.com/chats/U3HBnWE4sH3N2xZwXYj4a?type=image
+
+
+
+
+one second let me upload the rest of the files 
+
+
+The following files were provided:
+Attached image: attached_assets/2A730943-536A-4E28-8BB3-57A803A1FB81_1782707871350.png
+Attached image: attached_assets/8C057CB6-BED9-42F8-94B9-32A7D70051B7_1782707871354.png
+
+          HOLDEN UNIVERSITY
+                     Founder's Blueprint
+The Complete 560-Page Master Plan for an Industrial Operations and Mechanical
+                                     Integrity University
+
+
+
+
+                   Prepared to Protect. Built to Lead.
+              Learn. Practice. Simulate. Operate. Lead.
+
+
+
+
+                Holden University Founder's Blueprint | Prepared to Protect. Built to Lead.
+ Document Architecture
+ How to use this blueprint
+
+
+
+
+This master blueprint is designed as the operating architecture for Holden University. It unifies the academic model,
+registration system, pricing strategy, program catalog, digital campus, physical campus, software ecosystem, foundation,
+employer partnership model, and implementation roadmap.
+
+   • This is a planning document, not a final accreditation filing.
+
+   • Prices are planning estimates and should be reviewed before publication.
+
+   • Every college includes majors, courses, syllabi concepts, labs, simulations, and career outcomes.
+
+   • The blueprint assumes phased execution: design the university now, launch the flagship programs first.
+
+
+
+
+                             Holden University Founder's Blueprint | Prepared to Protect. Built to Lead.
+ Strategic Thesis
+ What Holden University is becoming
+
+
+
+
+Holden University should be built as an Industrial Operations University with Mechanical Integrity Operations as its
+flagship identity. This gives the institution room to train inspectors, technicians, operators, engineers, welders,
+maintenance personnel, turnaround leaders, and future plant leaders under one integrated standard.
+
+   • Do not build a narrow NDT school.
+
+   • Build a category: Industrial Operations and Mechanical Integrity education.
+
+   • Use digital rooms, field missions, and operational simulations as the learning environment.
+
+   • Make graduate readiness verifiable through Worker Passport, Greenlight, and DEPLOYD.
+
+
+
+
+                             Holden University Founder's Blueprint | Prepared to Protect. Built to Lead.
+ Master Visual: Full Ecosystem
+ One institution, many connected systems
+
+
+
+
+The power of this model is not one course or one software product. The power is the lifecycle. A student enters through
+admissions, learns through HIT3+, practices through labs, proves judgment in IntegrityOS and RiskGateIQ, manages work
+through D-IMS, receives authorization through Greenlight, and reaches employers through DEPLOYD.
+
+
+
+
+                            Holden University Founder's Blueprint | Prepared to Protect. Built to Lead.
+ Planning Price Matrix
+ Tuition, subscription, sponsor, and enterprise pricing
+
+The following price ranges are planning assumptions for the blueprint. They should be refined after cost modeling,
+market testing, state licensing review, accreditation strategy, and employer feedback.
+ Program / Credential              Planning Tuition Range            Typical Duration                   Notes
+ Single Online Course              $199 - $699                       2-8 weeks                      
